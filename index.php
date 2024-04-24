@@ -109,12 +109,14 @@
                 <div class="row justify-content-md-center">
                     <div class="col-lg-12">
                         <div class="banner-text text-center text-white">
-                            <h1 class="text-white iq-tw-7 iq-mb-20">Token creative of <b class="iq-font-yellow">CoinEX</b> Theme</h1>
+                            <h1 class="text-white iq-tw-7 iq-mb-20">Unlock Various Trading Options with a   
+                            <b class="iq-font-yellow">Minimum Deposit!</b></h1>
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-                            <h5 class="text-white"><a href="javascript:void(0)"> Coinex </a>on the ethereum ERC20 blockchain</h5>
+                            <h5 class="text-white"><a href="javascript:void(0)"> Coinex </a>Start Trading Today!
+</h5>
                             <ul id="countdown" class="countdown" data-date="Dec 31 2024 20:20:22">
                                 <li class="border-white"><span class="days" data-days>00</span>
                                     <p class="days_text">Days</p>
@@ -152,9 +154,11 @@
                 <div class="row ">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                            <small class="iq-font-green">Main Paper</small>
-                            <h2 class="title">White Paper</h2>
-                            <p>Lorem Ipsum is simply dummy text ever sincehar the 1500s, when an unknownshil printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+                            <!-- <small class="iq-font-green">TradersEra</small> -->
+                            <h2 class="title">TradersEra 
+</h2>
+                            <p>TradersEra is improving the trading experience right in India(Country Name). Easy access to worldwide markets, individual service that feels like a business buddy, and a platform customized to your specific needs.
+</p>
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12 ">
@@ -186,12 +190,19 @@
                     </div>
                     <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                         <div class="heading-title left">
-                            <small class="iq-font-green">What is crypto</small>
-                            <h2>coinex built a platform
-                to buy and sell shares.</h2>
+                            <!-- <small class="iq-font-green">What is crypto</small> -->
+                            <h2>Trading With Different Options Is Not That Difficult
+</h2>
                         </div>
-                        <P>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</P>
-                        <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                         <h4>Forex Trading Features:</h4>
+                         <br>
+                        <P><b>Global Market Access:</b> Trade in the world's largest financial market with access to currency pairs from major economies worldwide.
+</P>
+                        <p><b>High Liquidity:</b> Enjoy high liquidity, allowing for swift execution of trades and minimal price slippage.
+</p>
+                        <p><b>Diverse Asset Options:</b> Access currencies and other assets like gold, oil, and indices for diversified trading strategies.
+
+</p>
                         <a class="button iq-mt-20" href="javascript:void(0)" role="button">Buy Tokan</a>
                     </div>
                 </div>
