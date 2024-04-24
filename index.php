@@ -1288,7 +1288,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12 text-center">
-                            <div class="iq-copyright text-white">© Copyright <script>document.write(new Date().getFullYear())</script> CoinEX Developed by <a href="https://iqonic.design/" target="_blank">iqonicdesign.</a></div>
+                            <div class="iq-copyright text-white">© Copyright <script>document.write(new Date().getFullYear())</script>  <a href="https://testingwebsite.xyz/Traders_Era" target="_blank">TradersEra.</a></div>
                         </div>
                     </div>
                 </div>
