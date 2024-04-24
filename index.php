@@ -22,6 +22,12 @@
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
 </head>
 
+<style>
+    header .navbar-brand img {
+    height: 60px;
+}
+</style>
+
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">
@@ -50,7 +56,7 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg navbar-light">
                         <a class="navbar-brand" href="javascript:void(0)">
-                                <img src="images/logo.png" class="img-fluid" alt="">
+                                <img src="images/icon/logo.png" class="img-fluid" alt="">
                             </a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <i class="la la-bars"></i>
@@ -191,94 +197,54 @@
                     <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                         <div class="heading-title left">
                             <!-- <small class="iq-font-green">What is crypto</small> -->
-                            <h2>Trading With Different Options Is Not That Difficult
-</h2>
+                            <h2>Trading With Different Options Is Not That Difficult</h2>
                         </div>
                          <h4>Forex Trading Features:</h4>
                          <br>
-                        <P><b>Global Market Access:</b> Trade in the world's largest financial market with access to currency pairs from major economies worldwide.
-</P>
-                        <p><b>High Liquidity:</b> Enjoy high liquidity, allowing for swift execution of trades and minimal price slippage.
-</p>
-                        <p><b>Diverse Asset Options:</b> Access currencies and other assets like gold, oil, and indices for diversified trading strategies.
-
-</p>
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Buy Tokan</a>
+                        <P><b>Global Market Access:</b> Trade in the world's largest financial market with access to currency pairs from major economies worldwide.</P>
+                        <p><b>High Liquidity:</b> Enjoy high liquidity, allowing for swift execution of trades and minimal price slippage.</p>
+                        <p><b>Diverse Asset Options:</b> Access currencies and other assets like gold, oil, and indices for diversified trading strategies.</p>
+                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore More Features</a>
                     </div>
                 </div>
             </div>
         </section>
         <!-- What is OVEX END -->
+
         <!-- About Us -->
         <section class="overview-block-pb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                            <small class="iq-font-green">Main Features</small>
-                            <h2 class="title">The Crypto Features</h2>
-                            <p>Lorem Ipsum is simply dummy text ever sincehar the 1500s, when an unknownshil printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+                        <small class="iq-font-green">Features</small>
+                            <h3 class="title">Trading with ChatGPT Features</h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-12">
                     <div class="row">
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
+                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
                             <div class="iq-small-icon">
                                 <img src="images/icon/09.png" alt="icon" class="img-fluid" >
-                                <h6 class="iq-mb-10">Safe & Secure</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
+                                <h5 class="iq-mb-10">Real-Time Insights</h5>
+                                <P>Receive real-time market insights, trade recommendations, and personalized analysis through ChatGPT integration.</P>
+                                <br>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
+                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
                             <div class="iq-small-icon">
                                 <img src="images/icon/10.png" alt="icon" class="img-fluid">
-                                <h6 class="iq-mb-10">Excerpt Tokens</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
+                                <h5 class="iq-mb-10">Enhanced Decision Making</h5>
+                                <P>Utilize AI-driven assistance to make informed trading decisions based on historical data, current market trends, and user preferences.</P>
+                                <br>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
+                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
                             <div class="iq-small-icon active">
                                 <img src="images/icon/11.png" alt="icon" class="img-fluid">
-                                <h6 class="iq-mb-10">Easy Payment</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/12.png" alt="icon" class="img-fluid">
-                                <h6 class="iq-mb-10">Daily Cash Out</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/09.png" alt="icon" class="img-fluid">
-                                <h6 class="iq-mb-10">Safe & Secure</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/10.png" alt="icon" class="img-fluid">
-                                <h6 class="iq-mb-10">Excerpt Tokens</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon active">
-                                <img src="images/icon/11.png" alt="icon" class="img-fluid">
-                                <h6 class="iq-mb-10">Easy Payment</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/12.png" alt="icon" class="img-fluid">
-                                <h6 class="iq-mb-10">Daily Cash Out</h6>
-                                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
+                                <h5 class="iq-mb-10">Interactive Assistance</h5>
+                                <P>Engage in interactive conversations with ChatGPT to clarify queries, explore trading strategies, and stay updated on market developments.</P>
                             </div>
                         </div>
                     </div>
@@ -286,6 +252,189 @@
             </div>
         </section>
         <!-- About Us -->
+
+                <!-- About Us -->
+                <section class="overview-block-pb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                        <small class="iq-font-green">Features</small>
+                            <h3 class="title">Binary Trading Options Features</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
+                            <div class="iq-small-icon">
+                                <img src="images/icon/09.png" alt="icon" class="img-fluid" >
+                                <h5 class="iq-mb-10">Simplicity</h5>
+                                <P>Benefit from straightforward trading mechanics with binary options, where traders predict whether an asset's price will rise or fall within a specified timeframe.</P>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
+                            <div class="iq-small-icon">
+                                <img src="images/icon/10.png" alt="icon" class="img-fluid">
+                                <h5 class="iq-mb-10">Fixed Returns</h5>
+                                <P>Know your potential profits and losses upfront, with fixed returns on successful trades regardless of market volatility.</P>
+                                <br>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
+                            <div class="iq-small-icon active">
+                                <img src="images/icon/11.png" alt="icon" class="img-fluid">
+                                <h5 class="iq-mb-10">Diverse Asset Classes</h5>
+                                <P>Trade binary options on a variety of assets, including cryptocurrencies, commodities like gold and oil, stocks, and forex pairs, expanding trading opportunities across different markets.   </P>
+                            </div>
+                        </div>
+                        <center><a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore More Features</a></center>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About Us -->
+
+                <!-- Tranding platform -->
+                <section id="token" class="iq-Tranding-platform light-bg overview-block-ptb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                            <small class="iq-font-green">Benefits</small>
+                            <h2 class="title">Trade Your Way to Success</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="fancy-box">
+                            <div class="heading">
+                                <h4>Trading Options</h4>
+                                <br>
+                            </div>
+                            <br>
+                            <p>TradersEra provides various trading alternatives, including cryptocurrency, FX, and conventional assets. This diversity allows customers to diversify their investment portfolios and profit from various market movements.</p>
+                            <br>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 r9-mt-40">
+                        <div class="fancy-box">
+                            <div class="heading">
+                                <h4>User-Friendly Interface</h4>
+                            </div>
+                            <br>
+                            <p>TradersEra stresses user experience by providing an intuitive and simple-to-use interface. Whether customers are experienced traders or new to the market, they may rapidly learn the platform and execute transactions swiftly.</p>
+                            <br>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 r9-mt-40">
+                        <div class="fancy-box">
+                            <div class="heading">
+                                <h4>Advanced Security Measures</h4>
+                            </div>
+                            <br>
+                            <p>Security is essential in the realm of online business. TradersEra uses cutting-edge security mechanisms to protect users' information and assets. Users may trade confidently thanks to encryption, multi-factor authentication, and other security features.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 iq-mt-60">
+                        <div class="heading-title">
+                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Take your Chance</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Tranding platform END -->
+
+        <!-- timeline -->
+        <section class="iq-tranding-Platform overview-block-pb trending-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                            <small class="iq-font-green">Account Types</small>
+                            <h2 class="title">Our Trading Accounts for Your Perfect Fit</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <img  class="img-fluid"  src="images/about/03.png" alt="#">
+                    </div>
+                    <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
+                        <ul class="listing-mark iq-mtb-20">
+                            <li><b>Low spreads :</b> spreads as low as 0.4 pips consistently.</li>
+                            <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or spread-only accounts.</li>
+                            <li><b>Low starting amount :</b> Begin trading with just $10 for accessibility.</li>
+                            <li><b>High leverage :</b> Maximize potential with up to 1:1000 leverage.</li>
+                            <li><b>Fast order execution :</b> Execute trades within milliseconds to minimize slippage.</li>
+                            <li><b>Micro lot trading :</b> Start with micro lot trading from $0.10 per pip to manage risk effectively.</li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-12 iq-mt-60">
+                        <div class="heading-title">
+                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore Account Types</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End timeline -->
+
+             <!-- About Us -->
+             <section id="product" class="overview-block-pb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                        <small class="iq-font-green">Account Types</small>
+                            <h2 class="title">Open an account in 4 simple steps</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                            <div class="iq-small-icon">
+                                <img src="images/icon/04.png" alt="icon" class="img-fluid">
+                                <h6>Register</h6>
+                                <br>
+                                <p>Create an account with your Bank Details and login to the dashboard.</p>
+                                <br>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                            <div class="iq-small-icon">
+                                <img src="images/icon/05.png" alt="icon" class="img-fluid">
+                                <h6>Verify</h6>
+                                <br>
+                                <p>Our online verification tool provides your details and documents.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                            <div class="iq-small-icon active">
+                                <img src="images/icon/06.png" alt="icon" class="img-fluid">
+                                <h6>Fund</h6>
+                                <br>
+                                <p>Our various funding options to deposit money into your trading account.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                            <div class="iq-small-icon active">
+                                <img src="images/icon/06.png" alt="icon" class="img-fluid">
+                                <h6>Trade</h6>
+                                <br>
+                                <p>Start a trading journey with binary and spot trading options.</p>
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About Us -->
+
         <!-- Our Mission -->
         <section class="overview-block-ptb">
             <div class="container">
@@ -295,19 +444,80 @@
                     </div>
                     <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                         <div class="heading-title left">
-                            <small class="iq-font-green">Coinex chainblock</small>
-                            <h2>Our Coinex Mission</h2>
+                            <small class="iq-font-green">Become a Partner</small>
+                            <h3>Unlock Best Opportunity</h3>
+                            <h6 class="pt-2">You can Partner with TradersEra as an Introducing Broker (IB) :</h6>
                         </div>
-                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                        <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-                        <p>Here is 3 Easy Steps to Busy & Sell Bitcoin. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                        <p><b>For Your Clients : </b>Access MetaTrader 5, the award-winning platform, for informed trading decisions.Trade a diverse range of global markets with exceptional liquidity and low spreads.</p>
+                        <p><b>For Introducing Brokers : </b>Collaborate with a reputable company committed to transparency and support. Enjoy real-time monitoring and reporting, personalized assistance, and attractive earning potential.</p>
+                        <p>Join TradersEra as an IB and amplify your success in the brokerage world today!</p>
+                    </div>
+                    <div class="col-sm-12 iq-mt-60">
+                        <div class="heading-title">
+                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Start Earning as an IB</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
         <!-- Our Mission END -->
+
+                <!-- FAQ -->
+                <section class="iq-anything overview-block-pb">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                            <small class="iq-font-green">Ask Anything</small>
+                            <h2 class="title">Frequently Asked Questions</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 r9-mt-40">
+                        <div class="iq-accordion">
+                            <div class="iq-ad-block ad-active"> <a href="javascript:void(0)" class="ad-title">How do I get started with TradersEra?</a>
+                                <div class="ad-details">Getting started is easy! Simply sign up for an account on our website, and you'll be guided through the account registration process step by step.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">What documents do I need to provide to open an account?</a>
+                                <div class="ad-details">To comply with regulatory requirements, we'll need some basic identification documents such as a passport or driver's license, as well as proof of address.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">Is my personal information safe with TradersEra?</a>
+                                <div class="ad-details">Absolutely. We take the security and privacy of your personal information very seriously. Our platform utilizes advanced encryption and security protocols to safeguard your data.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">Can I trade on TradersEra from my mobile phone?</a>
+                                <div class="ad-details">Yes, you can! We offer a user-friendly mobile trading app that allows you to trade on the go from your smartphone or tablet.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">What kind of support does TradersEra offer?</a>
+                                <div class="ad-details">We provide 24/7 customer support to assist you with any questions or issues you may have. Our dedicated support team is here to help you every step of the way.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">How does artificial intelligence (AI) factor into forex trading on TradersEra?</a>
+                                <div class="ad-details">At TradersEra, we harness the power of AI to provide lightning-fast trade execution, efficient processing, and advanced risk management tools. Our AI algorithms analyze market data to identify patterns and trends, helping traders make informed decisions.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">What are Binary Options, and how can I trade them on TradersEra?</a>
+                                <div class="ad-details">Binary Options are financial instruments that allow traders to speculate on the price movements of various assets. At TradersEra, you can trade Binary Options on a range of assets including gold, oil, currencies, and more. With Binary Options, you simply predict whether the price of an asset will rise or fall within a specified time frame.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">How does the deposit process work on TradersEra, especially for local deposits?</a>
+                                <div class="ad-details">Depositing funds into your TradersEra account is quick and easy. We offer a variety of payment methods, including options for local deposits. Simply select your preferred payment method and follow the instructions to initiate the deposit. If you have any questions or need assistance, our support team is here to help you every step of the way.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">How long does it take to process deposits and withdrawals?</a>
+                                <div class="ad-details">Deposits are typically processed instantly, while withdrawals may take slightly longer depending on the payment method you choose and any additional verification requirements.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">Can I practice trading before risking real money?</a>
+                                <div class="ad-details">Absolutely. We offer a demo account option that allows you to practice trading with virtual funds before making any real investments.</div>
+                            </div>
+                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">Are there any hidden fees or commissions?</a>
+                                <div class="ad-details">No, we believe in transparency. We don't charge any hidden fees or commissions. Our pricing is straightforward and competitive.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- FAQ END -->
+
         <!-- What is OVEX -->
-        <section class="overview-block-ptb light-bg">
+        <!-- <section class="overview-block-ptb light-bg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 align-self-center text-center">
@@ -325,10 +535,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- What is OVEX END -->
         <!-- Our Mission -->
-        <section class="overview-block-ptb">
+        <!-- <section class="overview-block-ptb">
             <div class="container">
                 <div class="row flex-row-reverse">
                     <div class="col-lg-6 align-self-center">
@@ -348,10 +558,11 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Our Mission END -->
+
         <!-- About Us -->
-        <section id="product" class="overview-block-pb">
+        <!-- <section id="product" class="overview-block-pb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -426,10 +637,11 @@
                         </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- About Us -->
+
         <!-- Tranding platform -->
-        <section id="token" class="iq-Tranding-platform light-bg overview-block-ptb">
+        <!-- <section id="token" class="iq-Tranding-platform light-bg overview-block-ptb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -488,10 +700,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Tranding platform END -->
         <!-- timeline -->
-        <section id="road" class="iq-timeline-1 overview-block-ptb text-white">
+        <!-- <section id="road" class="iq-timeline-1 overview-block-ptb text-white">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -575,9 +787,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
+
         <!-- timeline -->
-        <section class="iq-tranding-Platform overview-block-pb trending-2">
+        <!-- <section class="iq-tranding-Platform overview-block-pb trending-2">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -604,10 +817,9 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <!--=================================
-Super Team -->
-        <section id="team" class="overview-block-ptb">
+        </section> -->
+        <!--Super Team -->
+        <!-- <section id="team" class="overview-block-ptb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -705,12 +917,10 @@ Super Team -->
                     </div>
                 </div>
             </div>
-        </section>
-        <!--=================================
-Super Team-->
-        <!--=================================
-Super Team -->
-        <section class="overview-block-pb">
+        </section> -->
+        <!--Super Team-->
+        <!--Super Team -->
+        <!-- <section class="overview-block-pb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -786,11 +996,10 @@ Super Team -->
                     </div>
                 </div>
             </div>
-        </section>
-        <!--=================================
-Super Team-->
+        </section> -->
+        <!--Super Team-->
         <!-- Our Blog -->
-        <section class="overview-block-ptb blog-style">
+        <!-- <section class="overview-block-ptb blog-style">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -943,10 +1152,10 @@ Super Team-->
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Our Blog END -->
         <!-- PARTNERS -->
-        <section class="iq-partners overview-block-pb">
+        <!-- <section class="iq-partners overview-block-pb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -1020,41 +1229,8 @@ Super Team-->
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- PARTNERS END -->
-        <!-- FAQ -->
-        <section class="iq-anything overview-block-pb">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="heading-title">
-                            <small class="iq-font-green">Ask Anything</small>
-                            <h2 class="title">Frequently Asked Questions</h2>
-                            <p>Lorem Ipsum is simply dummy text ever sincehar the 1500s, when an unknownshil printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12 r9-mt-40">
-                        <div class="iq-accordion">
-                            <div class="iq-ad-block ad-active"> <a href="javascript:void(0)" class="ad-title">Ipsum is simply dummy the printing?</a>
-                                <div class="ad-details">It has survived not only five centuries, but also the leap into electronic typesetting. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</div>
-                            </div>
-                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">Dummy the printing and type setting?</a>
-                                <div class="ad-details">It has survived not only five centuries, but also the leap into electronic typesetting. It has survived not only five centuries, but also the leap into electronic typesetting.</div>
-                            </div>
-                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">Standard dummy since the 1500s?</a>
-                                <div class="ad-details">It has survived not only five centuries, but also the leap into electronic typesetting. It has survived not only five centuries, but also the leap into electronic typesetting.</div>
-                            </div>
-                            <div class="iq-ad-block"> <a href="javascript:void(0)" class="ad-title">It has survived five centuries?</a>
-                                <div class="ad-details">It has survived not only five centuries, but also the leap into electronic typesetting. It has survived not only five centuries, but also the leap into electronic typesetting.</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- FAQ END -->
     </div>
     <!-- Footer 2-->
     <footer id="contact" class="iq-footer1 black-bg overview-block-pt iq-bg-over iq-over-black-20">
@@ -1062,13 +1238,13 @@ Super Team-->
             <div class="row">
                 <div class="col-lg-4 col-sm-12 iq-mtb-10">
                     <div class="logo">
-                        <img  class="img-fluid"  src="images/logo.png" alt="#">
-                        <div class="text-white iq-mt-15">Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industry's.</div>
+                        <img  class="img-fluid"  src="images/icon/logo.png" alt="#" style="height: 70px;">
+                        <div class="text-white iq-mt-15">Your all-in-one online platform for binary and Forex trading. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits.</div>
                         <ul class="info-share">
                             <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fa fa-pinterest"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="javascript:void(0)"><i class="fa fa-twitch"></i></a></li>
+                            <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="javascript:void(0)"><i class="fa fa-discord"></i></a></li>
                             <li><a href="javascript:void(0)"><i class="fa fa-youtube"></i></a></li>
                         </ul>
                     </div>
