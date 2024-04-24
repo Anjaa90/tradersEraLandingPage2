@@ -67,19 +67,19 @@
                                     <a class="nav-link active" href="#home">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#ico">What is ico</a>
+                                    <a class="nav-link" href="#features">Features</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#product">Product</a>
+                                    <a class="nav-link" href="#benefit">Benefits</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#token">Token</a>
+                                    <a class="nav-link" href="#account">Account Types</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#road">Road Map</a>
+                                    <a class="nav-link" href="#partner">Become a partner</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#team">Team</a>
+                                    <a class="nav-link" href="#faq">Faq</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#contact">Contact Us</a>
@@ -188,7 +188,7 @@
         </div>
         <!-- Clients -->
         <!-- What is OVEX -->
-        <section id="ico" class="overview-block-ptb">
+        <section  class="overview-block-ptb">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
@@ -212,7 +212,7 @@
         <!-- What is OVEX END -->
 
         <!-- About Us -->
-        <section class="overview-block-pb">
+        <section id="features" class="overview-block-pb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -296,7 +296,7 @@
         <!-- About Us -->
 
                 <!-- Tranding platform -->
-                <section id="token" class="iq-Tranding-platform light-bg overview-block-ptb">
+                <section id="benefit" class="iq-Tranding-platform light-bg overview-block-ptb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -348,7 +348,7 @@
         <!-- Tranding platform END -->
 
         <!-- timeline -->
-        <section class="iq-tranding-Platform overview-block-pb trending-2">
+        <section id="account" class="iq-tranding-Platform overview-block-pb trending-2">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -436,7 +436,7 @@
         <!-- About Us -->
 
         <!-- Our Mission -->
-        <section class="overview-block-ptb">
+        <section id="partner" class="overview-block-ptb">
             <div class="container">
                 <div class="row flex-row-reverse ">
                     <div class="col-lg-6 align-self-center">
@@ -463,7 +463,7 @@
         <!-- Our Mission END -->
 
                 <!-- FAQ -->
-                <section class="iq-anything overview-block-pb">
+                <section id="faq" class="iq-anything overview-block-pb">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
