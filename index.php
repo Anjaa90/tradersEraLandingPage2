@@ -49,64 +49,6 @@
         </div>
     </div>
     <!-- loading End -->
-    <!-- Header -->
-    <header>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12">
-                    <nav class="navbar navbar-expand-lg navbar-light">
-                        <a class="navbar-brand" href="javascript:void(0)">
-                                <img src="images/icon/logo.png" class="img-fluid" alt="">
-                            </a>
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                            <i class="la la-bars"></i>
-                        </button>
-                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                            <ul class="navbar-nav mr-auto w-100 justify-content-end">
-                                <li class="nav-item">
-                                    <a class="nav-link active" href="#home">Home</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#features">Features</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#benefit">Benefits</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#account">Account Types</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#partner">Become a partner</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#faq">Faq</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#contact">Contact Us</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <ul class="nav justify-content-end align-items-center">
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                        English
-                                    </a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="javascript:void(0)">Deutsch</a>
-                                    <a class="dropdown-item" href="javascript:void(0)">Español</a>
-                                    <a class="dropdown-item" href="javascript:void(0)">Spanish</a>
-                                </div>
-                            </li>
-                            <li class="nav-item iq-mlr-0">
-                                <a class="button" data-bs-toggle="modal" data-bs-target=".iq-login" data-whatever="@mdo" href="javascript:void(0)">Login</a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- Header END -->
     <!-- banner -->
     <div id="home" class="iq-banner-2">
         <div id="particles-js" class="body-bg"></div>
@@ -1232,71 +1174,6 @@
         </section> -->
         <!-- PARTNERS END -->
     </div>
-    <!-- Footer 2-->
-    <footer id="contact" class="iq-footer1 black-bg overview-block-pt iq-bg-over iq-over-black-20">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-sm-12 iq-mtb-10">
-                    <div class="logo">
-                        <img  class="img-fluid"  src="images/icon/logo.png" alt="#" style="height: 70px;">
-                        <div class="text-white iq-mt-15">Your all-in-one online platform for binary and Forex trading. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits.</div>
-                        <ul class="info-share">
-                            <li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fa fa-twitch"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fa fa-discord"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="fa fa-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-12 iq-mtb-10 about-us r9-mt-40">
-                    <h5 class="small-title text-white iq-mb-30">About Us</h5>
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <ul class="menu">
-                                <li><a href="javascript:void(0)">Home</a></li>
-                                <li><a href="javascript:void(0)">About Us</a></li>
-                                <li><a href="javascript:void(0)">Our Team</a></li>
-                                <li><a href="javascript:void(0)">Portfolio</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <ul class="menu">
-                                <li><a href="javascript:void(0)">Faqs</a></li>
-                                <li><a href="javascript:void(0)">Blog</a></li>
-                                <li><a href="javascript:void(0)">Our Services</a></li>
-                                <li><a href="javascript:void(0)">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-12 iq-mtb-10 iq-newsletter r9-mt-40">
-                    <h5 class="small-title text-white iq-mb-30">Newsletter</h5>
-                    <p class="text-white">Lorem Ipsum passages, and more recently with desktop publishing software.</p>
-                    <form class="newsletter-form">
-                        <div class="input-group">
-                            <input type="email" class="form-control placeholder" placeholder="Enter your Email">
-                            <a class="button" href="javascript:void(0)" role="button">Go</a>
-                        </div>
-                    </form>
-                </div>
-            </div>
-            <hr class="r9-mt-40">
-        </div>
-        <div class="container-fluid iq-pall ">
-            <div class="footer-bottom iq-ptb-20 dark-bg ">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <div class="iq-copyright text-white">© Copyright <script>document.write(new Date().getFullYear())</script>  <a href="https://testingwebsite.xyz/Traders_Era" target="_blank">TradersEra.</a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!--=================================
-Footer 2 -->
 <div class="modal fade iq-login" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content blue-bg">
