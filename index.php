@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>COINEX - Crypto Currency HTML Template</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- Typography CSS -->
@@ -25,6 +25,9 @@
 <style>
     header .navbar-brand img {
     height: 60px;
+}
+.img-logomain{
+    height: 100px;
 }
 </style>
 
@@ -63,6 +66,7 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
+                            <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <h2 class="text-white"><a href="javascript:void(0)"> </a>Start Trading Today!</h2>
                             <br>
                             <h6>TradersEra is improving the trading experience right in India(Country Name). Easy access to worldwide markets, individual service that feels like a business buddy, and a platform customized to your specific needs.</h6>
