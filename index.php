@@ -63,30 +63,12 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-                            <h5 class="text-white"><a href="javascript:void(0)"> Coinex </a>Start Trading Today!
-</h5>
-                            <ul id="countdown" class="countdown" data-date="Dec 31 2024 20:20:22">
-                                <li class="border-white"><span class="days" data-days>00</span>
-                                    <p class="days_text">Days</p>
-                                </li>
-                                <li class="border-white"><span class="hours" data-hours>00</span>
-                                    <p class="hours_text">Hours</p>
-                                </li>
-                                <li class="border-white"><span class="minutes" data-minutes>00</span>
-                                    <p class="minutes_text">Minutes</p>
-                                </li>
-                                <li class="border-white"><span class="seconds" data-seconds>00</span>
-                                    <p class="seconds_text">Seconds</p>
-                                </li>
-                            </ul>
-                            <ul class="list-inline">
-                                <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-cc-visa"></i></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-paypal"></i></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-bitcoin"></i></a></li>
-                                <li class="list-inline-item"><a href="javascript:void(0)"><i class="fa fa-credit-card-alt"></i></a></li>
-                            </ul>
-                            <a href="javascript:void(0)" class="button iq-mt-20 iq-ml-10">Buy Tokens</a>
-                            <a href="javascript:void(0)" class="button bt-white iq-mt-20 iq-ml-10">White Paper</a>
+                            <h2 class="text-white"><a href="javascript:void(0)"> </a>Start Trading Today!</h2>
+                            <br>
+                            <h6>TradersEra is improving the trading experience right in India(Country Name). Easy access to worldwide markets, individual service that feels like a business buddy, and a platform customized to your specific needs.</h6>
+                            <br>
+                            <a class="button" data-bs-toggle="modal" data-bs-target=".iq-login" data-whatever="@mdo" href="javascript:void(0)">Grab Your Chance Now</a>
+
                         </div>
                     </div>
                 </div>
@@ -94,41 +76,6 @@
         </div>
     </div>
     <!-- banner -->
-    <!-- Main-Contain -->
-    <div class="main-contain">
-        <!-- Clients -->
-        <div class="iq-our-clients iq-ptb-60 light-bg">
-            <div class="container">
-                <div class="row ">
-                    <div class="col-sm-12">
-                        <div class="heading-title">
-                            <!-- <small class="iq-font-green">TradersEra</small> -->
-                            <h2 class="title">TradersEra 
-</h2>
-                            <p>TradersEra is improving the trading experience right in India(Country Name). Easy access to worldwide markets, individual service that feels like a business buddy, and a platform customized to your specific needs.
-</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 col-md-12 ">
-                        <div class="owl-carousel" data-autoplay="true" data-loop="true" data-nav="false" data-dots="true" data-items="7" data-items-laptop="6" data-items-tab="5" data-items-mobile="2" data-items-mobile-sm="1" data-margin="30">
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/01.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/02.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/03.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/04.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/05.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/06.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/01.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/02.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/03.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/04.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/05.png" alt="#"></a></div>
-                            <div class="item"> <a href="clients.html"><img class="img-fluid center-block" src="images/clients/white/06.png" alt="#"></a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Clients -->
         <!-- What is OVEX -->
         <section  class="overview-block-ptb">
             <div class="container">
@@ -154,7 +101,7 @@
         <!-- What is OVEX END -->
 
         <!-- About Us -->
-        <section id="features" class="overview-block-pb">
+        <section id="features" class="overview-block-pb iq-ptb-100">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -196,7 +143,7 @@
         <!-- About Us -->
 
                 <!-- About Us -->
-                <section class="overview-block-pb">
+                <section class="overview-block-pb iq-ptb-100">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -238,7 +185,7 @@
         <!-- About Us -->
 
                 <!-- Tranding platform -->
-                <section id="benefit" class="iq-Tranding-platform light-bg overview-block-ptb">
+                <section id="benefit" class="iq-Tranding-platform light-bg overview-block-ptb iq-ptb-100">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -290,7 +237,7 @@
         <!-- Tranding platform END -->
 
         <!-- timeline -->
-        <section id="account" class="iq-tranding-Platform overview-block-pb trending-2">
+        <section id="account" class="iq-tranding-Platform overview-block-pb trending-2 iq-ptb-100">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -325,7 +272,7 @@
         <!--End timeline -->
 
              <!-- About Us -->
-             <section id="product" class="overview-block-pb">
+             <section id="product" class="overview-block-pb iq-ptb-100">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
@@ -378,7 +325,7 @@
         <!-- About Us -->
 
         <!-- Our Mission -->
-        <section id="partner" class="overview-block-ptb">
+        <section id="partner" class="overview-block-ptb iq-ptb-100">
             <div class="container">
                 <div class="row flex-row-reverse ">
                     <div class="col-lg-6 align-self-center">
