@@ -29,6 +29,9 @@
 .img-logomain{
     height: 100px;
 }
+.cards p{
+    font-size:16px;
+}
 </style>
 
 <body data-spy="scroll" data-offset="80">
@@ -60,16 +63,19 @@
                 <div class="row justify-content-md-center">
                     <div class="col-lg-12">
                         <div class="banner-text text-center text-white">
+                            <img src="images/icon/logo.png" alt="logo" class="img-logomain">
+                            <br>
+                            <br>
                             <h1 class="text-white iq-tw-7 iq-mb-17">Unlock Various Trading Options with a   
                             <b class="iq-font-yellow">Minimum Deposit!</b></h1>
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-                            <img src="images/icon/logo.png" alt="logo" class="img-logomain">
+                           
                             <h2 class="text-white"><a href="javascript:void(0)"> </a>Start Trading Today!</h2>
                             <br>
-                            <h6>TradersEra is improving the trading experience right in India(Country Name). Easy access to worldwide markets, individual service that feels like a business buddy, and a platform customized to your specific needs.</h6>
+                            <h5>Take your forex trading to new heights with TradersEra. Explore the all-in-one online platform, providing Binary options, AI assistance, and Forex Trading. Start now !</h5>
                             <br>
                             <a class="button" data-bs-toggle="modal" data-bs-target=".iq-login" data-whatever="@mdo" href="javascript:void(0)">Grab Your Chance Now</a>
 
@@ -81,22 +87,34 @@
     </div>
     <!-- banner -->
         <!-- What is OVEX -->
-        <section  class="overview-block-ptb">
+        <section  class="overview-block-ptb trending-2">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 align-self-center">
-                        <img src="images/about/09.png"  class="img-fluid"  alt="">
+                    <div class="col-lg-4 align-self-center">
+                        <img style="height:300px; width:300px;" src="images/about/09.png"  class="img-fluid"  alt="">
                     </div>
-                    <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
+                    <div class="col-lg-8 align-self-center mt-5 mt-lg-0">
                         <div class="heading-title left">
                             <!-- <small class="iq-font-green">What is crypto</small> -->
                             <h2>Trading With Different Options Is Not That Difficult</h2>
                         </div>
                          <h4>Forex Trading Features:</h4>
                          <br>
-                        <P><b>Global Market Access:</b> Trade in the world's largest financial market with access to currency pairs from major economies worldwide.</P>
-                        <p><b>High Liquidity:</b> Enjoy high liquidity, allowing for swift execution of trades and minimal price slippage.</p>
-                        <p><b>Diverse Asset Options:</b> Access currencies and other assets like gold, oil, and indices for diversified trading strategies.</p>
+                         <!-- <ul>
+                        <h4>Trade major currency pairs in the largest global market.</h4>
+                        <h4>Enjoy high liquidity for swift trades and minimal slippage.</h4>
+                        <h4>Access currencies, gold, oil, and indices for diverse trading.</h4>
+                        <h4>Engage in the world's largest market with major currency pairs.</h4>
+                        <h4>Benefit from high liquidity and diverse asset trading</h4>
+                    </ul> -->
+                    <ul class="listing-mark iq-mtb-20">
+                        <li><h5>Trade major currency pairs in the largest global market.</h5></li>
+                        <li><h5>Enjoy high liquidity for swift trades and minimal slippage.</h5></li>
+                        <li><h5>Access currencies, gold, oil, and indices for diverse trading.</h5></li>
+                        <li><h5>Engage in the world's largest market with major currency pairs.</h5></li>
+                        <li><h5>Benefit from high liquidity and diverse asset trading</h5></li>
+                 
+                    </ul>
                         <a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore More Features</a>
                     </div>
                 </div>
@@ -104,89 +122,110 @@
         </section>
         <!-- What is OVEX END -->
 
-        <!-- About Us -->
-        <section id="features" class="overview-block-pb iq-ptb-100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="heading-title">
-                        <!-- <small class="iq-font-green">Features</small> -->
-                            <h3 class="title">Trading with ChatGPT Features</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/09.png" alt="icon" class="img-fluid" >
-                                <h5 class="iq-mb-10">Real-Time Insights</h5>
-                                <P>Receive real-time market insights, trade recommendations, and personalized analysis through ChatGPT integration.</P>
-                                <br>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/10.png" alt="icon" class="img-fluid">
-                                <h5 class="iq-mb-10">Enhanced Decision Making</h5>
-                                <P>Utilize AI-driven assistance to make informed trading decisions based on historical data, current market trends, and user preferences.</P>
-                                <br>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon active">
-                                <img src="images/icon/11.png" alt="icon" class="img-fluid">
-                                <h5 class="iq-mb-10">Interactive Assistance</h5>
-                                <P>Engage in interactive conversations with ChatGPT to clarify queries, explore trading strategies, and stay updated on market developments.</P>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- About Us -->
+    
 
-                <!-- About Us -->
-                <section class="overview-block-pb ">
+               
+
+        <section id="benefit" class="iq-Tranding-platform light-bg ">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                        <!-- <small class="iq-font-green">Features</small> -->
-                            <h3 class="title">Binary Trading Options Features</h3>
+                            <!-- <small class="iq-font-green">Benefits</small> -->
+                            <h2 class="title">Trading with ChatGPT Features</h2>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-12">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/09.png" alt="icon" class="img-fluid" >
-                                <h5 class="iq-mb-10">Simplicity</h5>
-                                <P>Benefit from straightforward trading mechanics with binary options, where traders predict whether an asset's price will rise or fall within a specified timeframe.</P>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="fancy-box">
+                            <div class="heading ">
+                                <h4>Live updates</h4>
+                              
                             </div>
+                            <br>
+                            <p><h5>Get real-time market insights and analysis with ChatGPT</h5></p>
+                          
                         </div>
-                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon">
-                                <img src="images/icon/10.png" alt="icon" class="img-fluid">
-                                <h5 class="iq-mb-10">Fixed Returns</h5>
-                                <P>Know your potential profits and losses upfront, with fixed returns on successful trades regardless of market volatility.</P>
-                                <br>
+                    </div>
+                    <div class="col-lg-4 r9-mt-40">
+                        <div class="fancy-box">
+                            <div class="heading">
+                                <h4>Smarter choices</h4>
                             </div>
+                            <br>
+                            <p><h5>Make better trading decisions with AI-driven support.</h5></p>
+                           
                         </div>
-                        <div class="col-lg-4 col-md-6 iq-r-mt-40">
-                            <div class="iq-small-icon active">
-                                <img src="images/icon/11.png" alt="icon" class="img-fluid">
-                                <h5 class="iq-mb-10">Diverse Asset Classes</h5>
-                                <P>Trade binary options on a variety of assets, including cryptocurrencies, commodities like gold and oil, stocks, and forex pairs, expanding trading opportunities across different markets.   </P>
+                    </div>
+                    <div class="col-lg-4 r9-mt-40">
+                        <div class="fancy-box">
+                            <div class="heading">
+                                <h4>Chat support</h4>
                             </div>
+                            <br>
+                            <p><h5>Interact with ChatGPT for trading tactics and news.</h5></p>
                         </div>
-                        <center><a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore More Features</a></center>
+                    </div>
+                    <div class="col-sm-12 iq-mt-30">
+                        <div class="heading-title">
+                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Take your Chance</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- About Us -->
+
+        <section id="benefit" class="iq-Tranding-platform light-bg ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                            <!-- <small class="iq-font-green">Benefits</small> -->
+                            <h2 class="title">Binary Trading Options Features</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="fancy-box">
+                            <div class="heading ">
+                                <h4>Simplify binary options</h4>
+                              
+                            </div>
+                            <br>
+                            <p><h5>Predict asset movements within set time frames.</h5></p>
+                          
+                        </div>
+                    </div>
+                    <div class="col-lg-4 r9-mt-40">
+                        <div class="fancy-box">
+                            <div class="heading">
+                                <h4>Fixed returns</h4>
+                            </div>
+                            <br>
+                            <p><h5>Know potential profits and losses upfront.</h5></p>
+                           
+                        </div>
+                    </div>
+                    <div class="col-lg-4 r9-mt-40">
+                        <div class="fancy-box">
+                            <div class="heading">
+                                <h4>Chat support</h4>
+                            </div>
+                            <br>
+                            <p><h5>Interact with ChatGPT for trading tactics and news.</h5></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 iq-mt-30">
+                        <div class="heading-title">
+                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Take your Chance</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
                 <!-- Tranding platform -->
                 <section id="benefit" class="iq-Tranding-platform light-bg ">
@@ -291,7 +330,7 @@
                         <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
                             <div class="iq-small-icon">
                                 <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                                <h6>Register</h6>
+                                <h3>Register</h3>
                                 <br>
                                 <p>Create an account with your Bank Details and login to the dashboard.</p>
                                 <br>
