@@ -60,7 +60,7 @@
                 <div class="row justify-content-md-center">
                     <div class="col-lg-12">
                         <div class="banner-text text-center text-white">
-                            <h1 class="text-white iq-tw-7 iq-mb-20">Unlock Various Trading Options with a   
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Unlock Various Trading Options with a   
                             <b class="iq-font-yellow">Minimum Deposit!</b></h1>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                        <small class="iq-font-green">Features</small>
+                        <!-- <small class="iq-font-green">Features</small> -->
                             <h3 class="title">Trading with ChatGPT Features</h3>
                         </div>
                     </div>
@@ -147,12 +147,12 @@
         <!-- About Us -->
 
                 <!-- About Us -->
-                <section class="overview-block-pb iq-ptb-100">
+                <section class="overview-block-pb ">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                        <small class="iq-font-green">Features</small>
+                        <!-- <small class="iq-font-green">Features</small> -->
                             <h3 class="title">Binary Trading Options Features</h3>
                         </div>
                     </div>
@@ -189,12 +189,12 @@
         <!-- About Us -->
 
                 <!-- Tranding platform -->
-                <section id="benefit" class="iq-Tranding-platform light-bg overview-block-ptb iq-ptb-100">
+                <section id="benefit" class="iq-Tranding-platform light-bg ">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                            <small class="iq-font-green">Benefits</small>
+                            <!-- <small class="iq-font-green">Benefits</small> -->
                             <h2 class="title">Trade Your Way to Success</h2>
                         </div>
                     </div>
@@ -230,7 +230,7 @@
                             <p>Security is essential in the realm of online business. TradersEra uses cutting-edge security mechanisms to protect users' information and assets. Users may trade confidently thanks to encryption, multi-factor authentication, and other security features.</p>
                         </div>
                     </div>
-                    <div class="col-sm-12 iq-mt-60">
+                    <div class="col-sm-12 iq-mt-30">
                         <div class="heading-title">
                         <a class="button iq-mt-20" href="javascript:void(0)" role="button">Take your Chance</a>
                         </div>
@@ -246,7 +246,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                            <small class="iq-font-green">Account Types</small>
+                            <!-- <small class="iq-font-green">Account Types</small> -->
                             <h2 class="title">Our Trading Accounts for Your Perfect Fit</h2>
                         </div>
                     </div>
@@ -265,7 +265,7 @@
                             <li><b>Micro lot trading :</b> Start with micro lot trading from $0.10 per pip to manage risk effectively.</li>
                         </ul>
                     </div>
-                    <div class="col-sm-12 iq-mt-60">
+                    <div class="col-sm-12 ">
                         <div class="heading-title">
                         <a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore Account Types</a>
                         </div>
@@ -281,7 +281,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                        <small class="iq-font-green">Account Types</small>
+                   
                             <h2 class="title">Open an account in 4 simple steps</h2>
                         </div>
                     </div>
@@ -337,7 +337,7 @@
                     </div>
                     <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                         <div class="heading-title left">
-                            <small class="iq-font-green">Become a Partner</small>
+                            <!-- <small class="iq-font-green">Become a Partner</small> -->
                             <h3>Unlock Best Opportunity</h3>
                             <h6 class="pt-2">You can Partner with TradersEra as an Introducing Broker (IB) :</h6>
                         </div>
@@ -361,7 +361,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
-                            <small class="iq-font-green">Ask Anything</small>
+                            <!-- <small class="iq-font-green">Ask Anything</small> -->
                             <h2 class="title">Frequently Asked Questions</h2>
                         </div>
                     </div>

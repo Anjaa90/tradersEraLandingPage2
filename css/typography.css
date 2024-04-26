@@ -68,7 +68,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid var(--iq-light-border); b
 /*----------------------------------------------------------------------
                         Buttons
 -----------------------------------------------------------------------*/
-.button { color: var(--white); cursor: pointer; padding: 20px 40px; border: none; font-weight: 600; font-size: 14px; position: relative; background: var(--iq-primary); font-family: 'Poppins', sans-serif; display: inline-block; border-radius: var(--border-radius); letter-spacing: 0.5px; line-height: 14px; }
+.button { color: black; cursor: pointer; padding: 20px 40px; border: none; font-weight: 600; font-size: 23px; position: relative; background: var(--iq-primary); font-family: 'Poppins', sans-serif; display: inline-block; border-radius: var(--border-radius); letter-spacing: 0.5px; line-height: 14px; }
 .button:hover, .button:focus { color: var(--iq-light); background: var(--white); outline: none; }
 
 /* Buttons white */
@@ -92,7 +92,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid var(--iq-light-border); b
 Section padding 
 ----------------*/
 
-.overview-block-ptb { padding: 100px 0; }
+.overview-block-ptb { padding: 50px 0; }
 .overview-block-pt { padding: 100px 0 0; }
 .overview-block-pb { padding: 0 0 100px; }
 
@@ -128,7 +128,7 @@ Padding Top and Bottom
 .iq-ptb-70 { padding: 70px 0; }
 .iq-ptb-80 { padding: 80px 0; }
 .iq-ptb-90 { padding: 90px 0; }
-.iq-ptb-100 { padding: 100px 0; }
+.iq-ptb-100 { padding: 50px 0; }
 
 /*----------------
 Padding Left and right 
