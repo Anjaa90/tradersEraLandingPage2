@@ -22,18 +22,6 @@
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
 </head>
 
-<style>
-    header .navbar-brand img {
-    height: 60px;
-}
-.img-logomain{
-    height: 100px;
-}
-.cards p{
-    font-size:16px;
-}
-</style>
-
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">
@@ -77,7 +65,7 @@
                             <br>
                             <h5>Take your forex trading to new heights with TradersEra. Explore the all-in-one online platform, providing Binary options, AI assistance, and Forex Trading. Start now !</h5>
                             <br>
-                            <a class="button" data-bs-toggle="modal" data-bs-target=".iq-login" data-whatever="@mdo" href="javascript:void(0)">Grab Your Chance Now</a>
+                            <a class="button iq-mt-50" data-bs-toggle="modal" data-bs-target=".iq-login" data-whatever="@mdo" href="javascript:void(0)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#1c1b1e"/><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z" style="fill:#1c1b1e"/></g></svg>Yes I Want To Open An Account</a>
 
                         </div>
                     </div>
@@ -115,10 +103,16 @@
                         <li><h5>Benefit from high liquidity and diverse asset trading</h5></li>
                  
                     </ul>
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore More Features</a>
+                       
+                    </div>
+
+                    <div class="d-flex justify-content-center">
+                        <a class="button iq-mt-50" href="javascript:void(0)" role="button" style="width: auto;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#1c1b1e"/><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z" style="fill:#1c1b1e"/></g></svg>Yes I Want To Open An Account</a>
+
                     </div>
                 </div>
             </div>
+
         </section>
         <!-- What is OVEX END -->
 
@@ -132,7 +126,7 @@
                     <div class="col-sm-12">
                         <div class="heading-title">
                             <!-- <small class="iq-font-green">Benefits</small> -->
-                            <h2 class="title">Trading with ChatGPT Features</h2>
+                            <h2 class="title iq-mb-10">Trading with ChatGPT Features</h2>
                         </div>
                     </div>
                 </div>
@@ -169,20 +163,98 @@
                     </div>
                     <div class="col-sm-12 iq-mt-30">
                         <div class="heading-title">
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Take your Chance</a>
+                        <a class="button iq-mt-50 iq-mb-50" href="javascript:void(0)" role="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#1c1b1e"/><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z" style="fill:#1c1b1e"/></g></svg>Yes I Want To Open An Account</a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
+
+
+
+                <!-- Tranding platform -->
+                <section id="benefit" class="iq-Tranding-platform light-bg ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="heading-title">
+                            <!-- <small class="iq-font-green">Benefits</small> -->
+                            <h2 class="title">Trade Your Way to Success
+                            </h2>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="owl-carousel owl-loaded owl-drag" data-autoplay="true" data-loop="true" data-nav="true" data-dots="false" data-items="3" data-items-laptop="3" data-items-tab="3" data-items-mobile="1" data-items-mobile-sm="1" data-margin="30">
+                            <div class="owl-stage-outer">
+                                <div class="owl-stage" >
+                                    <div class="owl-item cloned" style="width: 362px; margin-right: 30px;"><div class="item">
+                                <div class="iq-blog-box">
+                                    <div class="iq-blog-image clearfix">
+                                        <img class="img-fluid center-block" src="images/blog/02.jpg" alt="#">
+                                    </div>
+                                    <div class="iq-blog-detail">
+                                        <div class="blog-title"> <a href="#"><h5 class="iq-tw-7 iq-mb-10">Trading Options</h5> </a> </div>
+                                        <div class="blog-content">
+                                            <p>TradersEra provides various trading alternatives, including cryptocurrency, FX, and conventional assets. This diversity allows customers to diversify their investment portfolios and profit from various market movements.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div>
+                            <div class="owl-item" style="width: 362px; margin-right: 30px;"><div class="item">
+                                <div class="iq-blog-box">
+                                    <div class="iq-blog-image clearfix">
+                                        <img class="img-fluid center-block" src="images/blog/03.jpg" alt="#">
+                                        <div class="players" id="player2-container">
+                                            <div class="media-wrapper">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="iq-blog-detail">
+                                        <div class="blog-title"> <a href="#"><h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5> </a> </div>
+                                        <div class="blog-content">
+                                            <p>TradersEra stresses user experience by providing an intuitive and simple-to-use interface. Whether customers are experienced traders or new to the market, they may rapidly learn the platform and execute transactions swiftly.
+
+                                            </p>
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                            </div></div>
+                            <div class="owl-item" style="width: 362px; margin-right: 30px;"><div class="item">
+                                <div class="iq-blog-box">
+                                    <div class="iq-blog-image clearfix">
+                                        <img class="img-fluid center-block" src="images/blog/02.jpg" alt="#">
+                                    </div>
+                                    <div class="iq-blog-detail">
+                                        <div class="blog-title"> <a href="#"><h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5> </a> </div>
+                                        <div class="blog-content">
+                                            <p>Security is essential in the realm of online business. TradersEra uses cutting-edge security mechanisms to protect users' information and assets. Users may trade confidently thanks to encryption, multi-factor authentication, and other security features.
+
+                                            </p>
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                            </div></div>
+                            
+                        </div></div>
+                      
+                    </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- Tranding platform END -->
         <section id="benefit" class="iq-Tranding-platform light-bg ">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="heading-title">
                             <!-- <small class="iq-font-green">Benefits</small> -->
-                            <h2 class="title">Binary Trading Options Features</h2>
+                            <h2 class="title iq-mt-50">Binary Trading Options Features</h2>
                         </div>
                     </div>
                 </div>
@@ -219,66 +291,12 @@
                     </div>
                     <div class="col-sm-12 iq-mt-30">
                         <div class="heading-title">
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Take your Chance</a>
+                        <a class="button iq-mt-50 iq-mb-50" href="javascript:void(0)" role="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#1c1b1e"/><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z" style="fill:#1c1b1e"/></g></svg>Yes I Want To Open An Account</a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-
-
-                <!-- Tranding platform -->
-                <section id="benefit" class="iq-Tranding-platform light-bg ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="heading-title">
-                            <!-- <small class="iq-font-green">Benefits</small> -->
-                            <h2 class="title">Trade Your Way to Success</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="fancy-box">
-                            <div class="heading">
-                                <h4>Trading Options</h4>
-                                <br>
-                            </div>
-                            <br>
-                            <p>TradersEra provides various trading alternatives, including cryptocurrency, FX, and conventional assets. This diversity allows customers to diversify their investment portfolios and profit from various market movements.</p>
-                            <br>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 r9-mt-40">
-                        <div class="fancy-box">
-                            <div class="heading">
-                                <h4>User-Friendly Interface</h4>
-                            </div>
-                            <br>
-                            <p>TradersEra stresses user experience by providing an intuitive and simple-to-use interface. Whether customers are experienced traders or new to the market, they may rapidly learn the platform and execute transactions swiftly.</p>
-                            <br>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 r9-mt-40">
-                        <div class="fancy-box">
-                            <div class="heading">
-                                <h4>Advanced Security Measures</h4>
-                            </div>
-                            <br>
-                            <p>Security is essential in the realm of online business. TradersEra uses cutting-edge security mechanisms to protect users' information and assets. Users may trade confidently thanks to encryption, multi-factor authentication, and other security features.</p>
-                        </div>
-                    </div>
-                    <div class="col-sm-12 iq-mt-30">
-                        <div class="heading-title">
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Take your Chance</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Tranding platform END -->
-
         <!-- timeline -->
         <section id="account" class="iq-tranding-Platform overview-block-pb trending-2 iq-ptb-100">
             <div class="container">
@@ -306,7 +324,7 @@
                     </div>
                     <div class="col-sm-12 ">
                         <div class="heading-title">
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Explore Account Types</a>
+                        <a class="button iq-mt-70" href="javascript:void(0)" role="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#1c1b1e"/><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z" style="fill:#1c1b1e"/></g></svg>Yes I Want To Open An Account</a>
                         </div>
                     </div>
                 </div>
@@ -330,7 +348,7 @@
                         <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
                             <div class="iq-small-icon">
                                 <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                                <h3>Register</h3>
+                                <h6>Register</h6>
                                 <br>
                                 <p>Create an account with your Bank Details and login to the dashboard.</p>
                                 <br>
@@ -386,7 +404,7 @@
                     </div>
                     <div class="col-sm-12 iq-mt-60">
                         <div class="heading-title">
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button">Start Earning as an IB</a>
+                        <a class="button iq-mt-20" href="javascript:void(0)" role="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Circle Right"><path d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z" style="fill:#1c1b1e"/><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z" style="fill:#1c1b1e"/></g></svg>Yes I Want To Open An Account</a>
                         </div>
                     </div>
                 </div>

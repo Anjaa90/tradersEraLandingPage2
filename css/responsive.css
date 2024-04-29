@@ -58,7 +58,7 @@ Design and Developed by: iqonicthemes.in
 	.timeline--mobile .timeline__item .timeline__content:after { border-right: 10px solid #131418; }
 	.timeline--mobile .timeline__item .timeline__content:before { border-right: 12px solid #131418; }
 	.iq-banner-2 .iq-countdown { padding-top: 0; }
-	.iq-banner-2 { padding: 22% 0 5%; }
+	.iq-banner-2 { padding: 5% 0 5%; }
 	#chartrounddiv { height: 250px; }
 	.timeline:not(.timeline--horizontal):before { background-color: #292c34; }
 }
@@ -91,8 +91,8 @@ Design and Developed by: iqonicthemes.in
 	.container { max-width: 100%; }
 	header .navbar-light .nav { display: none; }
 	.navbar-light .navbar-toggler { right: 0; }
-	h1 { font-size: 40px; }
-	h2 { font-size: 32px; }
+	h1 { font-size: 30px; }
+	h2 { font-size: 25px; }
 	h3 { font-size: 30px; }
 	.owl-carousel .owl-controls { display: none; }
 	.contact-us.overview-block-pt { padding-top: 0; }
@@ -109,8 +109,8 @@ Design and Developed by: iqonicthemes.in
 }
 
 @media(max-width:479px) {
-	h1 { font-size: 32px; }
-	.iq-banner-2 { padding: 100px 0 50px; }
+	h1 { font-size: 27px; }
+	.iq-banner-2 { padding: 20px 0 50px; }
 	.iq-banner-2 .iq-countdown { padding-left: 0; padding-right: 0; }
 	.iq-countdown #countdown li p { font-size: 11px; }
 	.iq-countdown #countdown li span { font-size: 36px; }
