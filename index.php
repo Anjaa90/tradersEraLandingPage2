@@ -206,17 +206,7 @@
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
-                        <a class="button iq-mt-50 iq-mb-50" href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                <g data-name="Circle Right">
-                                    <path
-                                        d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                                        style="fill:#1c1b1e" />
-                                    <path
-                                        d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                                        style="fill:#1c1b1e" />
-                                </g>
-                            </svg>I'm interested in opening an account</a>
+                        
                     </div>
                 </div>
             </div>
@@ -229,7 +219,7 @@
                 <div class="col-sm-12">
                     <div class="heading-title">
                         <!-- <small class="iq-font-green">Benefits</small> -->
-                        <h2 class="title iq-mt-50">Trading Benefits with TradersEra</h2>
+                        <h2 class="title iq-mt-50">Binary Trading Options Features</h2>
                     </div>
                 </div>
             </div>
@@ -276,17 +266,17 @@
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
-                        <a class="button iq-mt-50 iq-mb-50"  href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                <g data-name="Circle Right">
-                                    <path
-                                        d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                                        style="fill:#1c1b1e" />
-                                    <path
-                                        d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                                        style="fill:#1c1b1e" />
-                                </g>
-                            </svg>Yes I Want To Open An Account</a>
+                        <a class="button iq-mt-50 iq-mb-50" href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <g data-name="Circle Right">
+                                <path
+                                    d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                                    style="fill:#1c1b1e" />
+                                <path
+                                    d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                                    style="fill:#1c1b1e" />
+                            </g>
+                        </svg>I'm interested in opening an account</a>
                     </div>
                 </div>
             </div>
@@ -303,7 +293,7 @@
                 <div class="col-sm-12">
                     <div class="heading-title">
                         <!-- <small class="iq-font-green">Benefits</small> -->
-                        <h2 class="title">Trade Your Way to Success
+                        <h2 class="title">Trading Benefits with TradersEra
                         </h2>
                     </div>
                 </div>
@@ -324,13 +314,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra provides various trading alternatives, including
-                                                        cryptocurrency, FX, and conventional assets. This diversity
-                                                        allows customers to diversify their investment portfolios and
-                                                        profit from various market movements.
-                                                      
+                                                    <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets, to help clients diversify portfolios and profit from market trends.
+
                                                     </p>
-                                                    <br><br>
+                                                <br>
                                                 </div>
                                             </div>
                                         </div>
@@ -351,10 +338,9 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra stresses user experience by providing an intuitive and
-                                                        simple-to-use interface. Whether customers are experienced
-                                                        traders or new to the market, they may rapidly learn the
-                                                        platform and execute transactions swiftly.
+                                                    <p>TradersEra focuses on user experience with its easy-to-use interface, catering to both experienced traders and beginners for seamless navigation and fast transactions.
+
+
 
                                                     </p>
                                                     <br>
@@ -368,18 +354,15 @@
                                     <div class="item">
                                         <div class="iq-blog-box">
                                             <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block" src="images/tradersera landing page advanced security measures png-compressed.jpg" alt="#">
+                                                <img class="img-fluid center-block" src="images/tradersera landing page advanced security measures png-compressed (2).jpg" alt="#">
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>Security is essential in the realm of online business. TradersEra
-                                                        uses cutting-edge security mechanisms to protect users'
-                                                        information and assets. Users may trade confidently thanks to
-                                                        encryption, multi-factor authentication, and other security
-                                                        features.
+                                                    <p>TradersEra provides top-notch security for online businesses with advanced protocols like encryption, multi-factor authentication, and more for data and asset protection.
+
 
                                                     </p>
                                                 </div>
@@ -391,9 +374,25 @@
 
                             </div>
                         </div>
-
+              
                     </div>
                 </div>
+                <div class="col-md-12 d-flex justify-content-center">
+                    <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <g data-name="Circle Right">
+                            <path
+                                d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                                style="fill:#1c1b1e" />
+                            <path
+                                d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                                style="fill:#1c1b1e" />
+                        </g>
+                    </svg>Want To Open An Account
+                </a>
+                </div>
+              
+
             </div>
 
         </div>
@@ -427,18 +426,7 @@
                 </div>
                 <div class="col-sm-12 ">
                     <div class="heading-title">
-                        <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                <g data-name="Circle Right">
-                                    <path
-                                        d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                                        style="fill:#1c1b1e" />
-                                    <path
-                                        d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                                        style="fill:#1c1b1e" />
-                                </g>
-                            </svg>OPEN AN ACCOUNT
-                        </a>
+                    
                     </div>
                 </div>
             </div>
@@ -459,7 +447,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
                             <img src="images/icon/04.png" alt="icon" class="img-fluid">
                             <h6>Register</h6>
@@ -468,7 +456,7 @@
                             
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
                             <img src="images/icon/05.png" alt="icon" class="img-fluid">
                             <h6>Verify</h6>
@@ -476,7 +464,7 @@
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
                             <img src="images/icon/06.png" alt="icon" class="img-fluid">
                             <h6>Fund</h6>
@@ -484,7 +472,7 @@
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
+                    <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
                             <img src="images/icon/06.png" alt="icon" class="img-fluid">
                             <h6>Trade</h6>
@@ -494,8 +482,24 @@
                         </div>
                     </div>
                 </div>
+      
+            </div>
+            <div class="col-sm-12 d-flex justify-content-center">
+                <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <g data-name="Circle Right">
+                        <path
+                            d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                            style="fill:#1c1b1e" />
+                        <path
+                            d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                            style="fill:#1c1b1e" />
+                    </g>
+                </svg>OPEN AN ACCOUNT
+            </a>
             </div>
         </div>
+       
     </section>
     <!-- About Us -->
 

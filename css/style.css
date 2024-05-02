@@ -585,3 +585,12 @@ Feature
   background-color: var(--iq-primary);
   border-color: var(--iq-primary);
 }
+
+/* .right-arrow::after {
+  position: relative;
+  content: "\2192";  for any website you can get this code by typing arrow css code 
+  left: 265px;
+  top: -200px;
+  font-size: 30px;
+  color: #f9b707;
+} */
