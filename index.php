@@ -96,7 +96,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 align-self-center">
-                    <img style="height:300px; width:300px;" src="images/about/09.png" class="img-fluid" alt="">
+                    <img style="height:300px; width:500px;" src="images/landing 1.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-8 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
@@ -196,11 +196,11 @@
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Chat support</h4>
+                            <h4>Hassle-free trading</h4>
                         </div>
                         <br>
                         <p>
-                        <h5>Interact with ChatGPT for trading tactics and news.</h5>
+                        <h5>Enjoy ease with binary options.</h5>
                         </p>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                                         d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
                                         style="fill:#1c1b1e" />
                                 </g>
-                            </svg>Yes I Want To Open An Account</a>
+                            </svg>I'm interested in opening an account</a>
                     </div>
                 </div>
             </div>
@@ -229,7 +229,7 @@
                 <div class="col-sm-12">
                     <div class="heading-title">
                         <!-- <small class="iq-font-green">Benefits</small> -->
-                        <h2 class="title iq-mt-50">Binary Trading Options Features</h2>
+                        <h2 class="title iq-mt-50">Trading Benefits with TradersEra</h2>
                     </div>
                 </div>
             </div>
@@ -433,7 +433,8 @@
                                         d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
                                         style="fill:#1c1b1e" />
                                 </g>
-                            </svg>Want To Open An Account</a>
+                            </svg>OPEN AN ACCOUNT
+                        </a>
                     </div>
                 </div>
             </div>
@@ -499,7 +500,7 @@
         <div class="container">
             <div class="row flex-row-reverse ">
                 <div class="col-lg-6 align-self-center">
-                    <img src="images/about/08.png" class="img-fluid" alt="">
+                    <img src="images/landing 2.png" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
