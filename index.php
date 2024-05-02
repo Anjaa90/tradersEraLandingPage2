@@ -196,11 +196,12 @@
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Hassle-free trading</h4>
+                            <h4>Chat support</h4>
                         </div>
                         <br>
                         <p>
-                        <h5>Enjoy ease with binary options.</h5>
+                        <h5> Interact with ChatGPT for trading tactics and news.
+                        </h5>
                         </p>
                     </div>
                 </div>
@@ -262,12 +263,16 @@
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Chat support</h4>
+                            <h4>Hassle-free trading</h4>
                         </div>
                         <br>
                         <p>
-                        <h5>Interact with ChatGPT for trading tactics and news.</h5>
+                        <h5> Enjoy ease with binary options.
+
+                        </h5>
+                        
                         </p>
+                        <br>
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
@@ -505,7 +510,7 @@
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
                         <!-- <small class="iq-font-green">Become a Partner</small> -->
-                        <h3>Become an Introducing Broker (IB) with TradersEra</h3>
+                        <h3>Become an IB with TradersEra</h3>
                         
                     </div>
                     <p><b>For Your Clients : </b>Access award-winning MetaTrader 5 for diverse, liquid markets.
