@@ -175,9 +175,9 @@
 
                         </div>
                         <br>
-                        <p>
+                        
                         <h5>Get real-time market insights and analysis with ChatGPT</h5>
-                        </p>
+                        
 
                     </div>
                 </div>
@@ -187,9 +187,9 @@
                             <h4>Smarter choices</h4>
                         </div>
                         <br>
-                        <p>
+                        
                         <h5>Make better trading decisions with AI-driven support.</h5>
-                        </p>
+                        
 
                     </div>
                 </div>
@@ -199,9 +199,9 @@
                             <h4>Hassle-free trading</h4>
                         </div>
                         <br>
-                        <p>
-                        <h5>Enjoy ease with binary options.</h5>
-                        </p>
+                       
+                        <h5>Enjoy ease with binary <br> options.</h5>
+                        
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
