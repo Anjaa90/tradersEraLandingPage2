@@ -320,7 +320,9 @@
                                                         cryptocurrency, FX, and conventional assets. This diversity
                                                         allows customers to diversify their investment portfolios and
                                                         profit from various market movements.
+                                                      
                                                     </p>
+                                                    <br><br>
                                                 </div>
                                             </div>
                                         </div>
@@ -347,6 +349,7 @@
                                                         platform and execute transactions swiftly.
 
                                                     </p>
+                                                    <br>
                                                 </div>
 
                                             </div>
@@ -453,7 +456,7 @@
                             <h6>Register</h6>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
-                            <br>
+                            
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40">
@@ -478,7 +481,7 @@
                             <h6>Trade</h6>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
-                            <br>
+                            
                         </div>
                     </div>
                 </div>
