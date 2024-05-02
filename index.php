@@ -8,7 +8,11 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>COINEX - Crypto Currency HTML Template</title>
+    <title>Forex Trading India | Best Forex Broker India | Binary Trading</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
+    <meta name="keywords" content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
+   
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->
@@ -309,7 +313,7 @@
                                     <div class="item">
                                         <div class="iq-blog-box">
                                             <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block" src="images/blog/02.jpg" alt="#">
+                                                <img class="img-fluid center-block" src="images/tradersera landing page trading options png-compressed.jpg" alt="#">
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
@@ -332,7 +336,7 @@
                                     <div class="item">
                                         <div class="iq-blog-box">
                                             <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block" src="images/blog/03.jpg" alt="#">
+                                                <img class="img-fluid center-block" src="images/tradersera landing page user friendly interface png-compressed.jpg" alt="#">
                                                 <div class="players" id="player2-container">
                                                     <div class="media-wrapper">
                                                     </div>
@@ -360,7 +364,7 @@
                                     <div class="item">
                                         <div class="iq-blog-box">
                                             <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block" src="images/blog/02.jpg" alt="#">
+                                                <img class="img-fluid center-block" src="images/tradersera landing page advanced security measures png-compressed.jpg" alt="#">
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
@@ -403,7 +407,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="images/about/03.png" alt="#">
+                    <img class="img-fluid" src="images/traderaera landingpage Our Trading Accounts for Your Perfect Fit.png" alt="#">
                 </div>
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <ul class="listing-mark iq-mtb-20">
