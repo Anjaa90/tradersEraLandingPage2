@@ -65,7 +65,7 @@
 
                             <h2 class="text-white">Start Trading Today!</h2>
                             <br>
-                            <h5>Take your forex trading to new heights with TradersEra. Explore the all-in-one online
+                            <h5>Explore the all-in-one online
                                 platform, providing Binary options, AI assistance, and Forex Trading. Start now !</h5>
                             <br>
                             <a class="button iq-mt-50"  href="https://tradersera.com/prelogin.php" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg"
@@ -97,9 +97,9 @@
                 <div class="col-lg-8 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
                         <!-- <small class="iq-font-green">What is crypto</small> -->
-                        <h2>Trading With Different Options Is Not That Difficult</h2>
+                        <h2>Forex Trading Features</h2>
                     </div>
-                    <h4>Forex Trading Features:</h4>
+                
                     <br>
                     <!-- <ul>
                         <h4>Trade major currency pairs in the largest global market.</h4>
@@ -122,7 +122,7 @@
                             <h5>Engage in the world's largest market with major currency pairs.</h5>
                         </li>
                         <li>
-                            <h5>Benefit from high liquidity and diverse asset trading</h5>
+                            <h5>Benefit from high liquidity and diverse asset trading.</h5>
                         </li>
 
                     </ul>
@@ -140,7 +140,7 @@
                                     d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
                                     style="fill:#1c1b1e" />
                             </g>
-                        </svg>Yes I Want To Open An Account</a>
+                        </svg>SIGN UP FOR EXCLUSIVE ONLY MEMBER BENEFITS</a>
 
                 </div>
             </div>
@@ -404,7 +404,7 @@
                 </div>
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <ul class="listing-mark iq-mtb-20">
-                        <li><b>Low spreads :</b> spreads as low as 0.4 pips consistently.</li>
+                        <li><b>Low spreads :</b> Spreads as low as 0.4 pips consistently.</li>
                         <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or
                             spread-only accounts.</li>
                         <li><b>Low starting amount :</b> Begin trading with just $10 for accessibility.</li>
@@ -497,16 +497,15 @@
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
                         <!-- <small class="iq-font-green">Become a Partner</small> -->
-                        <h3>Unlock Best Opportunity</h3>
-                        <h6 class="pt-2">You can Partner with TradersEra as an Introducing Broker (IB) :</h6>
+                        <h3>Become an Introducing Broker (IB) with TradersEra</h3>
+                        
                     </div>
-                    <p><b>For Your Clients : </b>Access MetaTrader 5, the award-winning platform, for informed trading
-                        decisions.Trade a diverse range of global markets with exceptional liquidity and low spreads.
+                    <p><b>For Your Clients : </b>Access award-winning MetaTrader 5 for diverse, liquid markets.
                     </p>
-                    <p><b>For Introducing Brokers : </b>Collaborate with a reputable company committed to transparency
-                        and support. Enjoy real-time monitoring and reporting, personalized assistance, and attractive
-                        earning potential.</p>
-                    <p>Join TradersEra as an IB and amplify your success in the brokerage world today!</p>
+                    <p><b>For Introducing Brokers : </b>Partner with a reputable company for real-time support and earning potential.
+                    </p>
+                    <p>Join TradersEra as an IB and amplify your success in the brokerage world today!
+                    </p>
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
@@ -520,7 +519,7 @@
                                         d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
                                         style="fill:#1c1b1e" />
                                 </g>
-                            </svg>Yes I Want To Open An Account</a>
+                            </svg>Start Earning as an IB</a>
                     </div>
                 </div>
             </div>
