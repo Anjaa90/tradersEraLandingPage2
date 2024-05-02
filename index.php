@@ -63,13 +63,12 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white"><a href="javascript:void(0)"> </a>Start Trading Today!</h2>
+                            <h2 class="text-white">Start Trading Today!</h2>
                             <br>
                             <h5>Take your forex trading to new heights with TradersEra. Explore the all-in-one online
                                 platform, providing Binary options, AI assistance, and Forex Trading. Start now !</h5>
                             <br>
-                            <a class="button iq-mt-50" data-bs-toggle="modal" data-bs-target=".iq-login"
-                                data-whatever="@mdo" href="javascript:void(0)"><svg xmlns="http://www.w3.org/2000/svg"
+                            <a class="button iq-mt-50"  href="https://tradersera.com/prelogin.php" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg"
                                     viewBox="0 0 24 24">
                                     <g data-name="Circle Right">
                                         <path
@@ -131,7 +130,7 @@
                 </div>
 
                 <div class="d-flex justify-content-center">
-                    <a class="button iq-mt-50" href="javascript:void(0)" role="button" style="width: auto;"><svg
+                    <a class="button iq-mt-50"  href="https://tradersera.com/prelogin.php" target="_blank"><svg
                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                             <g data-name="Circle Right">
                                 <path
@@ -203,7 +202,7 @@
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
-                        <a class="button iq-mt-50 iq-mb-50" href="javascript:void(0)" role="button"><svg
+                        <a class="button iq-mt-50 iq-mb-50" href="https://tradersera.com/prelogin.php" target="_blank"><svg
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                 <g data-name="Circle Right">
                                     <path
@@ -269,7 +268,7 @@
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
-                        <a class="button iq-mt-50 iq-mb-50" href="javascript:void(0)" role="button"><svg
+                        <a class="button iq-mt-50 iq-mb-50"  href="https://tradersera.com/prelogin.php" target="_blank"><svg
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                 <g data-name="Circle Right">
                                     <path
@@ -417,7 +416,7 @@
                 </div>
                 <div class="col-sm-12 ">
                     <div class="heading-title">
-                        <a class="button iq-mt-70" href="javascript:void(0)" role="button"><svg
+                        <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                 <g data-name="Circle Right">
                                     <path
@@ -511,7 +510,7 @@
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
-                        <a class="button iq-mt-20" href="javascript:void(0)" role="button"><svg
+                        <a class="button iq-mt-20" href="https://tradersera.com/prelogin.php" target="_blank"><svg
                                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                 <g data-name="Circle Right">
                                     <path
