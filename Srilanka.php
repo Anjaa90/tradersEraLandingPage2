@@ -570,15 +570,9 @@
                         <h3>Become a Partner</h3>
 
                     </div>
-                    <p><b>For Your Clients : </b><b>Access Award-Winning MetaTrader 5: Gain access to the award-winning MetaTrader 5 platform for diverse and liquid markets, providing advanced trading features and analysis tools tailored to the trading needs in Sri Lanka.
-
-                    </p>
-                    <p><b>For Introducing Brokers : </b><b>Partner with a Reputable Company: Collaborate with a reputable company offering real-time support and substantial earning potential, ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Sri Lanka.
-
-                    </p>
-                    <p><b>Join TradersEra as an IB:</b>Amplify your success in the brokerage world by joining TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your earning opportunities and support network in Sri Lanka.
-
-                    </p>
+                    <p><b>For Your Clients : </b>Access Award-Winning MetaTrader 5: Gain access to the award-winning MetaTrader 5 platform for diverse and liquid markets, providing advanced trading features and analysis tools tailored to the trading needs in Sri Lanka.</p>
+                    <p><b>For Introducing Brokers : </b>Partner with a Reputable Company: Collaborate with a reputable company offering real-time support and substantial earning potential, ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Sri Lanka.</p>
+                    <p><b>Join TradersEra as an IB:</b>Amplify your success in the brokerage world by joining TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your earning opportunities and support network in Sri Lanka.</p>
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">

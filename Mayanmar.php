@@ -192,7 +192,7 @@
 
                         <h5>Stay informed about the market's latest trends and analysis in real-time with ChatGPT, customized for the Nepali market.
 
-                        </h5><br />
+                        </h5>
 
 
                     </div>
@@ -269,7 +269,7 @@
 
                         </h5>
                         </p>
-                       <br>
+                      
                     </div>
                 </div>
           
