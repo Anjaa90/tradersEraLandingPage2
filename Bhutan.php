@@ -259,11 +259,10 @@
                                 Returns</h4>
                         </div>
 
-                        <p>
+                     
                         <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes.
                         </h5>
-                        </p>
-                       <br>
+                        
                     </div>
                 </div>
           
