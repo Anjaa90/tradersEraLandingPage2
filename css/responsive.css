@@ -14,7 +14,10 @@ Design and Developed by: iqonicthemes.in
  *******************/
 
 /* Displays/Screens (e.g. 24" WS @ 1920x1080) -------------- */
-@media only screen and (min-width:1890px) and (max-width:2529px) { }
+@media only screen and
+ (min-width:1890px) and (max-width:2529px)
+  { }
+  
 @media(max-width:1399px) {
 	header .navbar-light .nav-item .nav-link { font-size: 14px; }
 }
