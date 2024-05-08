@@ -60,17 +60,18 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Lucknow Traders, Maximize Your Success with TradersEra 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Maximize Your Success with TradersEra 
 
 
-                                <b class="iq-font-yellow">All-in-One Online Platform Today</b>
+                                <!-- <b class="iq-font-yellow">All-in-One Online Platform Today</b> -->
                             </h1><br>
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Our All-in-One Online Platform for Binary Options, AI Assistance, and Forex Trading
+                            <h2 class="text-white">Our All-in-One Online Trading Platform for Binary and Forex Traders
+
 
 
 
