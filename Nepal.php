@@ -9,9 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Forex Trading India | Best Forex Broker India | Binary Trading</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
-    <meta name="keywords" content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
-   
+    <meta name="description"
+        content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
+    <meta name="keywords"
+        content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
+
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->
@@ -58,21 +60,23 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Unlock Various Trading Options with a
-                                <b class="iq-font-yellow">Minimum Deposit!</b>
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Best Trading Platform for 
+
+                                <b class="iq-font-yellow">Low-Cost Deposits in Nepal</b>
                             </h1>
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Start Trading Today!</h2>
+                            <h2 class="text-white">Get Access to a Range of Trading Options with Just a Minimum Deposit
+
+                            </h2>
                             <br>
-                            <h5>Explore the all-in-one online
-                                platform, providing Binary options, AI assistance, and Forex Trading. Start now !</h5>
+                            <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5>
                             <br>
-                            <a class="button iq-mt-50"  href="https://tradersera.com/prelogin.php" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg"
-                                    viewBox="0 0 24 24">
+                            <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
+                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                     <g data-name="Circle Right">
                                         <path
                                             d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
@@ -102,7 +106,7 @@
                         <!-- <small class="iq-font-green">What is crypto</small> -->
                         <h2>Forex Trading Features</h2>
                     </div>
-                
+
                     <br>
                     <!-- <ul>
                         <h4>Trade major currency pairs in the largest global market.</h4>
@@ -113,27 +117,37 @@
                     </ul> -->
                     <ul class="listing-mark iq-mtb-20">
                         <li>
-                            <h5>Trade major currency pairs in the largest global market.</h5>
+                            <h5>Trade major currency pairs in the largest global market, including the Nepali Rupee.
+
+                            </h5>
                         </li>
                         <li>
-                            <h5>Enjoy high liquidity for swift trades and minimal slippage.</h5>
+                            <h5>Enjoy high liquidity for swift trades and minimal slippage, even when trading the Nepali Rupee.
+
+                            </h5>
                         </li>
                         <li>
-                            <h5>Access currencies, gold, oil, and indices for diverse trading.</h5>
+                            <h5>Access currencies, gold, oil, indices, and other assets for diverse trading, including opportunities related to Nepal's economy.
+</h5>
                         </li>
                         <li>
-                            <h5>Engage in the world's largest market with major currency pairs.</h5>
+                            <h5>Engage in the world's largest market with major currency pairs, alongside the Nepali Rupee.
+
+                            </h5>
                         </li>
                         <li>
-                            <h5>Benefit from high liquidity and diverse asset trading.</h5>
+                            <h5>Benefit from high liquidity and diverse asset trading options, including those relevant to Nepal's financial landscape.
+
+                            </h5>
                         </li>
+
 
                     </ul>
 
                 </div>
 
                 <div class="d-flex justify-content-center">
-                    <a class="button iq-mt-50"  href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                    <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"><svg
                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                             <g data-name="Circle Right">
                                 <path
@@ -170,25 +184,28 @@
                 <div class="col-lg-4">
                     <div class="fancy-box">
                         <div class="heading ">
-                            <h4>Live updates</h4>
+                            <h4>Live Updates</h4>
 
                         </div>
                         <br>
-                        
-                        <h5>Get real-time market insights and analysis with ChatGPT</h5>
-                        
+
+                        <h5>Stay informed about the market's latest trends and analysis in real-time with ChatGPT, customized for the Nepali market.
+
+                        </h5><br />
+
 
                     </div>
                 </div>
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Smarter choices</h4>
+                            <h4>Smarter Choices</h4>
                         </div>
                         <br>
-                        
-                        <h5>Make better trading decisions with AI-driven support.</h5>
-                        
+
+                        <h5>Enhance your trading decisions with AI-driven insights and support, customized for the Nepali trading landscape.
+</h5><br />
+
 
                     </div>
                 </div>
@@ -198,14 +215,15 @@
                             <h4>Chat support</h4>
                         </div>
                         <br>
-                       
-                        <h5>Enjoy ease with binary <br> options.</h5>
-                        
+
+                        <h5> Engage with ChatGPT for trading tactics, news updates, and personalized assistance, specifically curated for traders in Nepal.
+                        </h5>
+
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
-                        
+
                     </div>
                 </div>
             </div>
@@ -223,68 +241,99 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="fancy-box">
                         <div class="heading ">
-                            <h4>Simplify binary options</h4>
+                            <h4> Simplify Binary Options</h4>
 
                         </div>
-                        <br>
+
                         <p>
-                        <h5>Predict asset movements within set time frames.</h5>
+                        <h5> Easily predict asset movements within set time frames, simplifying the trading process.
+
+                        </h5>
                         </p>
 
                     </div>
                 </div>
-                <div class="col-lg-4 r9-mt-40">
+                <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Fixed returns</h4>
+                            <h4>Fixed
+                                Returns</h4>
                         </div>
-                        <br>
-                        <p>
-                        <h5>Know potential profits and losses upfront.</h5>
-                        </p>
 
-                    </div>
-                </div>
-                <div class="col-lg-4 r9-mt-40">
-                    <div class="fancy-box">
-                        <div class="heading">
-                            <h4>Hassle-free trading</h4>
-                        </div>
-                        <br>
                         <p>
-                        <h5> Enjoy ease with binary options.
+                        <h5> Understand potential profits and losses upfront, offering clarity and certainty in trading outcomes.
 
                         </h5>
                         
-                        </p>
-                        <br>
                     </div>
                 </div>
-                <div class="col-sm-12 iq-mt-30">
-                    <div class="heading-title">
-                        <a class="button iq-mt-50 iq-mb-50" href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                            <g data-name="Circle Right">
-                                <path
-                                    d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                                    style="fill:#1c1b1e" />
-                                <path
-                                    d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                                    style="fill:#1c1b1e" />
-                            </g>
-                        </svg>I'm interested in opening an account</a>
-                    </div>
-                </div>
+          
             </div>
         </div>
     </section>
     <!-- timeline -->
 
+<br><br>
 
-<!-- dk -->
+    <section id="benefit" class="iq-Tranding-platform light-bg ">
+        <div class="container">
+        
+            <div class="row">
+               
+                <div class="col-lg-6 r9-mt-40">
+                    <div class="fancy-box">
+                        <div class="heading">
+                            <h4>Diverse Asset Access</h4>
+                        </div>
+
+                        <p>
+                        <h5>Access a wide range of assets including cryptocurrencies, commodities, stocks, and forex, providing ample opportunities for trading diversity.
+
+                        </h5>
+
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-lg-6 r9-mt-40">
+                    <div class="fancy-box">
+                        <div class="heading">
+                            <h4>Hassle-free Trading</h4>
+                        </div>
+
+                        <p>
+                        <h5> Enjoy seamless trading experiences with binary options, ensuring convenience and efficiency in your trading activities in Nepal.
+
+                        </h5>
+
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-sm-12 iq-mt-30">
+                    <div class="heading-title">
+                        <a class="button iq-mt-50 iq-mb-50" href="https://tradersera.com/prelogin.php"
+                            target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                <g data-name="Circle Right">
+                                    <path
+                                        d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                                        style="fill:#1c1b1e" />
+                                    <path
+                                        d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                                        style="fill:#1c1b1e" />
+                                </g>
+                            </svg>I'm interested in opening an account</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- dk -->
     <!-- Tranding platform -->
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
@@ -297,26 +346,28 @@
                     </div>
                 </div>
                 <div class="col-sm-12">
-                    <div  data-autoplay="true" data-loop="true" data-nav="true"
-                        data-dots="false" data-items="3" data-items-laptop="3" data-items-tab="3" data-items-mobile="1"
-                        data-items-mobile-sm="1" data-margin="30">
+                    <div data-autoplay="true" data-loop="true" data-nav="true" data-dots="false" data-items="3"
+                        data-items-laptop="3" data-items-tab="3" data-items-mobile="1" data-items-mobile-sm="1"
+                        data-margin="30">
                         <div class="owl-stage-outer">
                             <div class="owl-stage" style="display: flex;">
                                 <div class="owl-item cloned" style="width: 362px; margin-right: 30px;">
                                     <div class="item">
                                         <div class="iq-blog-box">
                                             <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block" src="images/tradersera landing page trading options png-compressed.jpg" alt="#">
+                                                <img class="img-fluid center-block"
+                                                    src="images/tradersera landing page trading options png-compressed.jpg"
+                                                    alt="#">
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
                                                         <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets, to help clients diversify portfolios and profit from market trends.
+                                                    <p><b>Diverse Trading Options:</b>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets, enabling clients in Nepal to diversify portfolios and capitalize on market trends across various asset classes.
 
                                                     </p>
-                                                <br>
+                                                    <br>
                                                 </div>
                                             </div>
                                         </div>
@@ -326,7 +377,9 @@
                                     <div class="item">
                                         <div class="iq-blog-box">
                                             <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block" src="images/tradersera landing page user friendly interface png-compressed.jpg" alt="#">
+                                                <img class="img-fluid center-block"
+                                                    src="images/tradersera landing page user friendly interface png-compressed.jpg"
+                                                    alt="#">
                                                 <div class="players" id="player2-container">
                                                     <div class="media-wrapper">
                                                     </div>
@@ -337,12 +390,11 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra focuses on user experience with its easy-to-use interface, catering to both experienced traders and beginners for seamless navigation and fast transactions.
-
+                                                    <p><b>Intuitive Design:</b> TradersEra prioritizes user experience with its intuitive interface, designed for easy navigation and fast transactions, catering to both experienced traders and beginners in Nepal.
 
 
                                                     </p>
-                                                    <br>
+                                                    <br><br />
                                                 </div>
 
                                             </div>
@@ -353,15 +405,16 @@
                                     <div class="item">
                                         <div class="iq-blog-box">
                                             <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block" src="images/tradersera landing page advanced security measures png-compressed (2).jpg" alt="#">
+                                                <img class="img-fluid center-block"
+                                                    src="images/tradersera landing page advanced security measures png-compressed (2).jpg"
+                                                    alt="#">
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra provides top-notch security for online businesses with advanced protocols like encryption, multi-factor authentication, and more for data and asset protection.
-
+                                                    <p><b>Top-Notch Security:</b>TradersEra ensures top-notch security for online businesses in Nepal with advanced protocols like encryption, multi-factor authentication, and more, safeguarding data and assets against cyber threats and vulnerabilities.
 
                                                     </p>
                                                 </div>
@@ -373,24 +426,24 @@
 
                             </div>
                         </div>
-              
+
                     </div>
                 </div>
                 <div class="col-md-12 d-flex justify-content-center">
                     <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                        <g data-name="Circle Right">
-                            <path
-                                d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                                style="fill:#1c1b1e" />
-                            <path
-                                d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                                style="fill:#1c1b1e" />
-                        </g>
-                    </svg>Want To Open An Account
-                </a>
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <g data-name="Circle Right">
+                                <path
+                                    d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                                    style="fill:#1c1b1e" />
+                                <path
+                                    d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                                    style="fill:#1c1b1e" />
+                            </g>
+                        </svg>Want To Open An Account
+                    </a>
                 </div>
-              
+
 
             </div>
 
@@ -409,7 +462,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="images/traderaera landingpage Our Trading Accounts for Your Perfect Fit.png" alt="#">
+                    <img class="img-fluid"
+                        src="images/traderaera landingpage Our Trading Accounts for Your Perfect Fit.png" alt="#">
                 </div>
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <ul class="listing-mark iq-mtb-20">
@@ -425,7 +479,7 @@
                 </div>
                 <div class="col-sm-12 ">
                     <div class="heading-title">
-                    
+
                     </div>
                 </div>
             </div>
@@ -452,7 +506,7 @@
                             <h6>Register</h6>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
-                            
+
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
@@ -477,28 +531,28 @@
                             <h6>Trade</h6>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
-                            
+
                         </div>
                     </div>
                 </div>
-      
+
             </div>
             <div class="col-sm-12 d-flex justify-content-center">
                 <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <g data-name="Circle Right">
-                        <path
-                            d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                            style="fill:#1c1b1e" />
-                        <path
-                            d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                            style="fill:#1c1b1e" />
-                    </g>
-                </svg>OPEN AN ACCOUNT
-            </a>
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <g data-name="Circle Right">
+                            <path
+                                d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                                style="fill:#1c1b1e" />
+                            <path
+                                d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                                style="fill:#1c1b1e" />
+                        </g>
+                    </svg>OPEN AN ACCOUNT
+                </a>
             </div>
         </div>
-       
+
     </section>
     <!-- About Us -->
 
@@ -512,15 +566,16 @@
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
                         <!-- <small class="iq-font-green">Become a Partner</small> -->
-                        <h3>Become an IB with TradersEra</h3>
-                        
+                        <h3>Become a Partner</h3>
+
                     </div>
-                    <p><b>For Your Clients : </b>Access award-winning MetaTrader 5 for diverse, liquid markets.
+                    <p><b>Partner with a Reputable Company : </b>Collaborate with a reputable company offering real-time support and substantial earning potential, ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Nepal.
+
                     </p>
-                    <p><b>For Introducing Brokers : </b>Partner with a reputable company for real-time support and earning potential.
+                    <p><b>Join TradersEra as an IB : </b>Amplify your success in the brokerage world by joining TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your earning opportunities and support network in Nepal.
+
                     </p>
-                    <p>Join TradersEra as an IB and amplify your success in the brokerage world today!
-                    </p>
+                  
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">

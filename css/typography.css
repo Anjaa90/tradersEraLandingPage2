@@ -49,13 +49,13 @@ import Css
 body { font-family: 'Roboto', sans-serif; font-weight: normal; position: relative; font-style: normal; font-size: 16px; line-height: 28px; color: var(--iq-gray); overflow-x: hidden; background: var(--iq-dark-bg); }
 a:hover, a:focus, a.active { text-decoration: none; outline: none; }
 a, a:hover, a:focus { color: var(--iq-primary); -webkit-transition: all 250ms ease-in-out 0s; -moz-transition: all 250ms ease-in-out 0s; -ms-transition: all 250ms ease-in-out 0s; -o-transition: all 250ms ease-in-out 0s; transition: all 250ms ease-in-out 0s; text-decoration: none; }
-h1, h2, h3, h4, h5, h6 { font-family: 'Poppins', sans-serif; font-weight: 500; color: var(--iq-title-text); margin-top: 0px; margin-bottom: 0px; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Poppins', sans-serif; font-weight: 400; color: var(--iq-title-text); margin-top: 0px; margin-bottom: 0px; }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; }
 h1 { font-size: 64px; line-height: 1.3;}
 h2 { font-size: 50.5px; line-height: 1.3;}
 h3 { font-size: 37.9px; line-height: 1.3;}
 h4 { font-size: 26.4px; line-height: 1.3;}
-h5 { font-size: 21.3px; line-height: 1.3;}
+h5 { font-size: 18px; line-height: 1.3;}
 h6 { font-size: 16px; line-height: 1.3;}
 small{font-size: 14px; font-weight: 500; line-height: 24.5px;}
 .lead { font-size: 18px; line-height: 32px; margin: 0; }
