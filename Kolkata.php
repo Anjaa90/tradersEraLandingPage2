@@ -69,7 +69,8 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Dive into the World of Binary Options, AI Assistance, and Forex Trading on this All-in-One Online Platform
+                            <h2 class="text-white">Dive into the World of Binary Options, AI Assistance, and Forex Trading
+
 
 
                             </h2>

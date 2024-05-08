@@ -71,7 +71,7 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Maximize Your Trading with our All-in-One Online Platform: Binary Options, AI Assistance, and Forex Trading
+                            <h2 class="text-white">Maximize Your Trading with our All-in-One Online Platform Binary Options, AI Assistance, and Forex Trading
 
 
 
