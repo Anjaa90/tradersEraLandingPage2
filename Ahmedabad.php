@@ -60,24 +60,21 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Your Gateway to Endless Trading Opportunities
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade With Ease In One platform with 
 
-
-                                <b class="iq-font-yellow">in Chennai</b>
+                                 <b class="iq-font-yellow">various Trading Options</b>
                             </h1><br>
+                            
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Improve Your Trading with Binary Options, AI Assistance, and Forex 
-
-
+                            <h2 class="text-white">Your All-In-One Trading Platform
 
                             </h2>
                             <br><br>
-
-             <p>Unlock boundless trading opportunities in Chennai with TradersEra, Dive into diverse trading options with a minimum deposit, including Binary options, AI assistance, and Forex Trading. Start now
+             <p>Ahmedabad, unlock endless trading possibilities with TradersEra! Dive into a world of Binary options, AI assistance, and Forex Trading, starting from just $10. Let's begin your trading journey today
 
 
 </p>
@@ -649,7 +646,7 @@
 
                           
 
-                            <p>Illuminate your path to financial success in Chennai with TradersEra. Explore major currency pairs, cryptocurrencies, and more with our user-friendly platform. Join us today as an Introducing Broker and amplify your success with TradersEra
+                            <p>In Ahmedabad, elevate your trading game with TradersEra. Explore diverse options, seamless navigation, and top-notch security measures. Join us now and redefine your financial future
 
 </p>
 

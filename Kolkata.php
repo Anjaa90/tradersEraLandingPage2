@@ -75,7 +75,8 @@
                             </h2>
                             <br><br>
 
-             <p>Welcome Kolkata, the vibrant spirit of commerce meets the rich tapestry of cultural heritage. Amidst the bustling streets and the echoes of history, emerges an opportunity like no other – TradersEra, your gateway to a world of limitless trading possibilities. With a minimum deposit, unlock the doors to a realm where binary options, AI assistance, and Forex trading converge seamlessly. Whether you're a seasoned trader or just venturing into the exciting world of finance, TradersEra offers a comprehensive platform tailored to your needs. Join us now and embark on a journey towards financial success, right here from the heart of Kolkata.
+             <p>TradersEra is a place where Kolkata's thriving business community meets its rich cultural legacy. With forex trading, AI support, and binary options all on one platform, you can open up countless trading opportunities. Join us right now to get started on your path to financial success right in the center of Kolkata!
+
 
 </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
