@@ -493,7 +493,7 @@
                         <li><b>Low spreads :</b> Spreads as low as 0.4 pips consistently.</li>
                         <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or
                             spread-only accounts.</li>
-                        <li><b>Low starting amount :</b> Begin trading with just $10 for accessibility.</li>
+                    
                         <li><b>High leverage :</b> Maximize potential with up to 1:1000 leverage.</li>
                         <li><b>Fast order execution :</b> Execute trades within milliseconds to minimize slippage.</li>
                         <li><b>Micro lot trading :</b> Start with micro lot trading from $0.10 per pip to manage risk
