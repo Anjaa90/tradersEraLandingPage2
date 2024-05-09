@@ -656,7 +656,7 @@
 
                           
 
-                            <p>Thank you for joining us in Cochin. With TradersEra, trading is accessible and secure. Start your journey with us today and elevate your success in the brokerage world. Let's navigate the markets together
+                            <p> Cochin With TradersEra, trading is accessible and secure. Start your journey with us today and elevate your success in the brokerage world. Let's navigate the markets together
 
 
 
