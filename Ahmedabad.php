@@ -74,7 +74,7 @@
 
                             </h2>
                             <br><br>
-             <p>Ahmedabad, unlock endless trading possibilities with TradersEra! Dive into a world of Binary options, AI assistance, and Forex Trading, starting from just $10. Let's begin your trading journey today.
+             <p>Ahmedabad, unlock endless trading possibilities with TradersEra! Dive into a world of Binary options, AI assistance, and Forex Trading. Let's begin your trading journey today.
 </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg

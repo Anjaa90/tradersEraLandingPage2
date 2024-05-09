@@ -74,7 +74,7 @@
                             <h2 class="text-white">Take Your Trading to the Next Level with Our All-in-One Platform</h2>
                             <br><br>
 
-             <p>Welcome to Namakkal! TradersEra offers a seamless pathway to diverse trading options, including binary, AI-assisted, and Forex trading. Join us now to explore the world of financial opportunities.</p>
+             <p>Welcome  Namakkal! TradersEra offers a seamless pathway to diverse trading options, including binary, AI-assisted, and Forex trading. Join us now to explore the world of financial opportunities.</p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg

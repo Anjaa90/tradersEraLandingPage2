@@ -63,7 +63,7 @@
                             <h1 class="text-white iq-tw-7 iq-mb-17">Simplify your trading journey in Bhopal with 
                                  <b class="iq-font-yellow">TradersEra </b>
                             </h1><br>
-                            <h3> Trade smarter, not harder.</h3>
+                            <!-- <h3> Trade smarter, not harder.</h3> -->
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
