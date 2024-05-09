@@ -60,8 +60,8 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Make Your Mark in the Trading World with TradersEra Delhi's
-                                <b class="iq-font-yellow"> Premier Trading Platform</b>
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Make Your Mark in the Trading World 
+                                <b class="iq-font-yellow">with TradersEra</b>
                             </h1>
                         </div>
                     </div>
@@ -643,7 +643,7 @@
 
                           
 
-                            <p>As you soak in the vibrant energy of Delhi, why not add a dash of excitement to your day with TradersEra? With low spreads, no commission fees, and a super easy-to-use interface, we're here to make trading fun and profitable for you. Join us as we redefine the trading experience, right from the heart of Delhi. Let's make some trading magic happen together with TradersEra - because in Delhi, the trading journey is always better with friends
+                            <p>As you soak in the vibrant energy of Delhi, why not add a dash of excitement to your day with TradersEra? With low spreads, no commission fees, and a super easy-to-use interface, we're here to make trading fun and profitable for you. Join us as we redefine the trading experience, right from the heart of Delhi. Let's make some trading magic happen together with TradersEra - because in Delhi, the trading journey is always better with friends.
 </p>
 
 

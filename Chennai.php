@@ -70,13 +70,14 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Take Your Trading to the Next Level with Binary Options, AI Assistance, and Forex Trading - All in One Platform
+                            <h2 class="text-white">Improve Your Trading with Binary Options, AI Assistance, and Forex 
+
 
 
                             </h2>
                             <br><br>
 
-             <p>Unlock boundless trading opportunities in Chennai with TradersEra, Dive into diverse trading options with a minimum deposit, including Binary options, AI assistance, and Forex Trading. Start now
+             <p>Unlock boundless trading opportunities in Chennai with TradersEra, Dive into diverse trading options with a minimum deposit, including Binary options, AI assistance, and Forex Trading - Start now
 
 
 </p>

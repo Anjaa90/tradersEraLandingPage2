@@ -69,7 +69,8 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Experience Our All-in-One Online Platform  Binary Options, AI Assistance, and Forex Trading
+                            <h2 class="text-white">Experience Our Binary, AI Assistance, and Forex Trading Options
+
                             </h2>
                             <br><br>
              <p>Welcome to Bangalore, TradersEra’s own platform offers diverse options and advanced features for all traders. Join us Bangalore for a journey towards financial empowerment.

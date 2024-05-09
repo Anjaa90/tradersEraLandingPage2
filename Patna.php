@@ -60,39 +60,23 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Forex in Madurai with
-
-                                 <b class="iq-font-yellow">TradersEra</b>
-                            </h1><br>
-                            <h5 style="font-size: 20px">Your Secure and User-Friendly Trading Platform!
-</h5>
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Easily on a Single Platform with a Wide Range of 
+                                 <b class="iq-font-yellow">Trading Options</b>
+                            </h1>
                             
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h3 class="text-white">The All-in-One Online Platform for Binary Options, AI Assistance, and Forex Trading
-
-
-
-
-
-
-
-                            </h3>
+                            <h2 class="text-white">Your One-Stop Trading Platform
+                            </h2>
                             <br><br>
 
-             <p>Welcome to TradersEra in Madurai! Unlock diverse trading options with a minimal deposit. Enjoy low spreads, user-friendly interface, and advanced security measures for seamless trading.
-
-
-
-
-
+             <p>Welcome to TradersEra Patna Unlock diverse trading options with minimal deposit requirements. Whether you're into Binary options, AI assistance, or Forex Trading, our platform offers it all.
 
 </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
-                            <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                     <g data-name="Circle Right">
@@ -659,12 +643,7 @@
 
                           
 
-                            <p>Join TradersEra today and start trading with confidence in Madurai. With low starting amounts and high leverage, your trading success awaits!
-
-
-
-
-
+                            <p>Join TradersEra today in Patna and revolutionize your trading experience. With our user-friendly interface and advanced security measures, success in the financial world is just a click away.
 </p>
 
 

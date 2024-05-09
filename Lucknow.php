@@ -60,10 +60,10 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Maximize Your Success with TradersEra 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Maximize Success, Minimize Deposit - 
 
 
-                                <!-- <b class="iq-font-yellow">All-in-One Online Platform Today</b> -->
+                                <b class="iq-font-yellow">in Lucknow</b>
                             </h1><br>
                         </div>
                     </div>
