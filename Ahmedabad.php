@@ -60,10 +60,10 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade With Ease In One platform with 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade With Ease In One platform with various
 
-                                 <b class="iq-font-yellow">various Trading Options</b>
-                            </h1><br>
+                                 <b class="iq-font-yellow">Trading Options</b>
+                            </h1>
                             
                         </div>
                     </div>
@@ -74,12 +74,9 @@
 
                             </h2>
                             <br><br>
-             <p>Ahmedabad, unlock endless trading possibilities with TradersEra! Dive into a world of Binary options, AI assistance, and Forex Trading, starting from just $10. Let's begin your trading journey today
-
-
+             <p>Ahmedabad, unlock endless trading possibilities with TradersEra! Dive into a world of Binary options, AI assistance, and Forex Trading, starting from just $10. Let's begin your trading journey today.
 </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
-                            <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                     <g data-name="Circle Right">

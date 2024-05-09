@@ -77,7 +77,7 @@
                             </h2>
                             <br><br>
 
-             <p>Unlock boundless trading opportunities in Chennai with TradersEra, Dive into diverse trading options with a minimum deposit, including Binary options, AI assistance, and Forex Trading. Start now
+             <p>Unlock boundless trading opportunities in Chennai with TradersEra, Dive into diverse trading options with a minimum deposit, including Binary options, AI assistance, and Forex Trading - Start now
 
 
 </p>
