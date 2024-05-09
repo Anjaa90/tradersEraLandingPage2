@@ -658,7 +658,8 @@
 
                           
 
-                            <p>In Chandigarh, seize the opportunity with TradersEra. Join as an Introducing Broker and step into a world of success and support. Embrace the future of trading today.
+                            <p>In Chandigarh, seize the opportunity with TradersEra. Join as an Introducing Broker and step into a world of success and support. 
+                                Embrace the future of trading today.
 
 
 
