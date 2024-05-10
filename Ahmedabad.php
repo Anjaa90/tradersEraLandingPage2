@@ -28,6 +28,8 @@
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
 </head>
 
+
+<h1></h1>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">
