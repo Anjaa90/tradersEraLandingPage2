@@ -27,7 +27,9 @@
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
 </head>
-
+<!-- 
+h
+ -->
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">
@@ -136,6 +138,7 @@
                                 taka, ensuring efficient executions.
                             </h5>
                         </li>
+                        <li><h5><b>Low starting amount :</b> Begin trading with just $10 for accessibility.</h5></li>
                         <li>
                             <h5><b>Access Diverse Assets : </b> Explore currencies, gold, oil, and indices, relevant to
                                 Bangladesh's economy, offering diverse trading opportunities.</h5>
