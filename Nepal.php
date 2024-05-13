@@ -203,7 +203,8 @@
                         </div>
                         <br>
 
-                        <h5>Enhance your trading decisions with AI-driven insights and support, customized for the Nepali trading landscape.
+                        <h5>Enhance your trading decisions with 
+                            <br>AI-driven insights and support, customized for the Nepali trading landscape.
 </h5><br />
 
 
@@ -216,9 +217,9 @@
                         </div>
                         <br>
 
-                        <h5> Engage with ChatGPT for trading tactics, news updates, and personalized assistance, specifically curated for traders in Nepal.
+                        <h5> Engage with ChatGPT for trading <br> tactics, news updates, and personalized assistance, specifically curated for traders in Nepal.
                         </h5>
-
+<br>
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">

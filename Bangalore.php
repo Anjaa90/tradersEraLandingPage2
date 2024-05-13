@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade forex in Bangalore with TradersEra's 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Forex In Bangalore With TradersEra's 
                                  <b class="iq-font-yellow">All-in-One Online Platform</b>
                             </h1><br>
                             
