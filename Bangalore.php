@@ -602,7 +602,7 @@
                           
 
                             <p>Join TradersEra Bangalore to reshape your trading experience. With a user-friendly interface and top-notch security, we're your trusted partner in the world of trading. Let's shape the future together.
-/p>
+</p>
 
 
 
