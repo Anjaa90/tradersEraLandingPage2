@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Forex in Madurai with
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Forex In Madurai With
 
                                  <b class="iq-font-yellow">TradersEra</b>
                             </h1><br>
