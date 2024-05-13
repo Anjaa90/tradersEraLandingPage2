@@ -181,7 +181,7 @@
                 <div class="col-lg-4">
                     <div class="fancy-box">
                         <div class="heading ">
-                            <h4>Live Updates</h4>
+                            <h4 style="color:black"><b>Live Updates</b></h4>
 
                         </div>
                         <br>
@@ -196,7 +196,7 @@
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Smarter Choices</h4>
+                            <h4 style="color:black"><b>Smarter Choices</b></h4>
                         </div>
                         <br>
 
@@ -209,7 +209,7 @@
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Chat support</h4>
+                            <h4 style="color:black"><b>Chat Support</b></h4>
                         </div>
                         <br>
 
@@ -243,7 +243,7 @@
                 <div class="col-lg-6">
                     <div class="fancy-box">
                         <div class="heading ">
-                            <h4> Simplified Predictions</h4>
+                            <h4 style="color:black"><b> Simplified Predictions</b></h4>
 
                         </div>
 
@@ -258,8 +258,7 @@
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Fixed
-                                Returns</h4>
+                            <h4 style="color:black"><b>Fixed Returns</b></h4>
                         </div>
 
                      
@@ -285,7 +284,7 @@
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Diverse Asset Access</h4>
+                            <h4 style="color:black"><b>Diverse Asset Access</b></h4>
                         </div>
 
                         <p>
@@ -303,7 +302,7 @@
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4>Hassle-free Trading</h4>
+                            <h4 style="color:black"><b>Hassle-Free Trading</b></h4>
                         </div>
 
                         <p>
