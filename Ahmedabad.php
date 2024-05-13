@@ -62,7 +62,7 @@ h
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade With Ease In One platform with various
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade With Ease In One Platform With Various
 
                                  <b class="iq-font-yellow">Trading Options</b>
                             </h1>
@@ -192,7 +192,7 @@ h
                         </div>
                         <br>
 
-                        <h5> Get real-time Indian and International market insights and analysis with ChatGPT.
+                        <h5> Get real-time Indian and International market insights and analysis,<br> with ChatGPT.
                         </h5>
 
 
@@ -205,7 +205,7 @@ h
                         </div>
                         <br>
 
-                        <h5>  Make better trading decisions with AI-driven support.</h5><br />
+                        <h5>  Make better trading decisions with <br>AI-driven support.</h5><br />
 
 
                     </div>
@@ -217,7 +217,7 @@ h
                         </div>
                         <br>
 
-                        <h5>Interact with ChatGPT for trading tactics and news.
+                        <h5>Interact with ChatGPT for trading <br>tactics and news.
                         </h5>
 <br>
                     </div>

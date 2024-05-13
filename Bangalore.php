@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade forex in Bangalore with TradersEra's 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Forex In Bangalore With TradersEra's 
                                  <b class="iq-font-yellow">All-in-One Online Platform</b>
                             </h1><br>
                             
@@ -193,7 +193,7 @@
                         </div>
                         <br>
 
-                        <h5> Get real-time Indian and International market insights and analysis with ChatGPT.
+                        <h5> Get real-time Indian and <br>International market insights and analysis with ChatGPT.
                         </h5>
 
 
@@ -206,9 +206,7 @@
                         </div>
                         <br>
 
-                        <h5>  Make better trading decisions with AI-driven support.</h5>
-
-
+                        <h5>  Make better trading decisions with<br> AI-driven support.</h5><br>
                     </div>
                 </div>
                 <div class="col-lg-4 r9-mt-40">
@@ -218,8 +216,8 @@
                         </div>
                         <br>
 
-                        <h5>Interact with ChatGPT for trading tactics and news.
-                        </h5>
+                        <h5>Interact with ChatGPT for trading <br>tactics and news.
+                        </h5><br>
 
                     </div>
                 </div>
