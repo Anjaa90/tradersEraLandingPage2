@@ -63,7 +63,7 @@
                             <h1 class="text-white iq-tw-7 iq-mb-17">Maximize Success, Minimize Deposit - 
 
 
-                                <b class="iq-font-yellow">in Lucknow</b>
+                                <b class="iq-font-yellow">In Lucknow</b>
                             </h1><br>
                         </div>
                     </div>

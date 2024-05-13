@@ -60,10 +60,10 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Discover Our All-In-One Online Platform for Forex Trading, AI Help, 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Discover Our All-In-One Online Platform For Forex Trading, AI Help, 
 
 
-                                 <b class="iq-font-yellow">and Binary Options</b>
+                                 <b class="iq-font-yellow">And Binary Options</b>
                             </h1><br>
                             
                         </div>

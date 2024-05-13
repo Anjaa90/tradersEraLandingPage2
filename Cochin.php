@@ -60,10 +60,10 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Dive into Binary Options, AI, and Forex with TradersEra 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Dive Into Binary Options, AI, And Forex With TradersEra 
 
 
-                                 <b class="iq-font-yellow">in Cochin</b>
+                                 <b class="iq-font-yellow">In Cochin</b>
                             </h1><br>
                             
                         </div>

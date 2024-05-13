@@ -60,9 +60,9 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Best Trading Platform for 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Best Trading Platform For 
 
-                                <b class="iq-font-yellow">Low-Cost Deposits in Nepal</b>
+                                <b class="iq-font-yellow">Low-Cost Deposits In Nepal</b>
                             </h1>
                         </div>
                     </div>

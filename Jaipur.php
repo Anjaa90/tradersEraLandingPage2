@@ -60,9 +60,9 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Wisely, Trade Globally with TradersEra
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Wisely, Trade Globally With TradersEra
 
-                                 <b class="iq-font-yellow">in Jaipur</b>
+                                 <b class="iq-font-yellow">In Jaipur</b>
                             </h1><br>
                             
                         </div>

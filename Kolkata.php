@@ -60,9 +60,9 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Begin Trading with TradersEra's
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Begin Trading With TradersEra's
 
-                                <b class="iq-font-yellow">in Kolkata</b>
+                                <b class="iq-font-yellow">In Kolkata</b>
                             </h1>
                         </div>
                     </div>

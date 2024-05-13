@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Easily on a Single Platform with a Wide Range of 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Easily On A Single Platform With A Wide Range Of 
                                  <b class="iq-font-yellow">Trading Options</b>
                             </h1>
                             

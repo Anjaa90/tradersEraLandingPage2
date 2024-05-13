@@ -60,9 +60,9 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Use a small initial payment to
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Use A Small Initial Payment To
 
-                                <b class="iq-font-yellow">begin trading</b>
+                                <b class="iq-font-yellow">Begin Trading</b>
                             </h1>
                         </div>
                     </div>

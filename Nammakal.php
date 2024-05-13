@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Namakkal's Leading Trading Platform for 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Namakkal's Leading Trading Platform For 
 
                                  <b class="iq-font-yellow">Better Investment
 </b>

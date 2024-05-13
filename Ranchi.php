@@ -60,9 +60,9 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade seamlessly across a range of options
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Seamlessly Across A Range Of Options
 
-                                 <b class="iq-font-yellow">for trading</b>
+                                 <b class="iq-font-yellow">For Trading</b>
                             </h1><br>
                             
                         </div>

@@ -60,10 +60,10 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Your Gateway to Endless Trading Opportunities
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Your Gateway To Endless Trading Opportunities
 
 
-                                <b class="iq-font-yellow">in Chennai</b>
+                                <b class="iq-font-yellow">In Chennai</b>
                             </h1><br>
                         </div>
                     </div>

@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Simplify your trading journey in Bhopal with 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Simplify Your Trading Journey In Bhopal With 
                                  <b class="iq-font-yellow">TradersEra </b>
                             </h1><br>
                             <!-- <h3> Trade smarter, not harder.</h3> -->
