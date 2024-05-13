@@ -193,7 +193,7 @@ h
                         <br>
 
                         <h5> Get real-time Indian and International market insights and analysis with ChatGPT.
-                        </h5><br />
+                        </h5>
 
 
                     </div>
@@ -219,7 +219,7 @@ h
 
                         <h5>Interact with ChatGPT for trading tactics and news.
                         </h5>
-
+<br>
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
@@ -364,7 +364,7 @@ h
                                                     </a> </div>
                                                 <div class="blog-content">
                                                     <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets.</p>
-                                                    <br>
+                                                    <br><br>
                                                 </div>
                                             </div>
                                         </div>
@@ -388,7 +388,7 @@ h
                                                     </a> </div>
                                                 <div class="blog-content">
                                                     <p>TradersEra focuses on user experience with its easy-to-use interface, catering to both experienced traders and beginners for seamless navigation and fast transactions. </p>
-                                                    <br><br />
+                                                   
                                                 </div>
 
                                             </div>
