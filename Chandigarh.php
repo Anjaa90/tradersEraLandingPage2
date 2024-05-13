@@ -60,10 +60,11 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Discover Our All-In-One Online Platform For Forex Trading, AI Help, 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Discover Our All-In-One Online Platform For Various
 
 
-                                 <b class="iq-font-yellow">And Binary Options</b>
+
+                                 <b class="iq-font-yellow"><br>Trading Options</b>
                             </h1><br>
                             
                         </div>
@@ -71,14 +72,7 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Simple to Use, One-Stop Trading Platform with Minimal Down Payment
-
-
-
-
-
-
-
+                            <h2 class="text-white">The Best Trading Platform with Minimal Down Payment
                             </h2>
                             <br><br>
 

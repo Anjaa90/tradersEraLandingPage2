@@ -73,7 +73,9 @@
                             </h2>
                             <br><br>
 
-             <p>Delhi traders, Ready to dive into the exciting world of online trading? Say hello to TradersEra, your friendly neighborhood platform that opens up a world of trading options with just a minimum deposit. Whether you're a seasoned pro or just getting started, we've got everything you need to make waves in the market. So, let's embark on this trading adventure together, right here.
+             <p>Delhi traders,TradersEra, your friendly platform that opens up a world of trading options with just a minimum deposit. Whether
+                 you're a seasoned pro or just getting started, we've got everything you need to make waves in the market. 
+                 So, let's embark on this trading adventure together, right here.
 </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
@@ -600,7 +602,10 @@
 
                           
 
-                            <p>With low spreads, no commission fees, and a super easy-to-use interface, we're here to make trading fun and profitable for you. Join us as we redefine the trading experience, right from the heart of Delhi. Let's make some trading magic happen together with TradersEra</p>
+                            <p>With low spreads, no commission fees, and a super easy-to-use interface, 
+                                we're here to make trading fun and profitable for you. Join us as we redefine 
+                                the trading experience, right from the heart of Delhi. 
+                                Let's make some trading magic happen together with TradersEra</p>
 
 
 

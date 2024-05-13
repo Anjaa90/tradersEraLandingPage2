@@ -600,7 +600,7 @@
 
                           
 
-                            <p>As the day winds down in Namakkal, TradersEra remains your steadfast companion in the trading journey. With our user-friendly interface and top-notch security, we're here to empower your success. Join us today and let's thrive together in the dynamic world of trading.
+                            <p> TradersEra  your steadfast companion in the trading journey. With our user-friendly interface and top-notch security, we're here to empower your success. Join us today and let's thrive together in the dynamic world of trading.
 </p>
 
 

@@ -600,7 +600,9 @@
 
                           
 
-                            <p>As the vibrant city of Mumbai comes alive with possibilities, let TradersEra be your trusted partner in the world of trading. With our low starting amounts, user-friendly interface, and a wide range of trading options, we're here to support you every step of the way. Join us today and embark on a journey towards financial empowerment and success, right here in Mumbai. TradersEra - where every trader finds a home
+                            <p>TradersEra be your trusted partner in the world of trading. With our low starting amounts, user-friendly interface, and 
+                                a wide range of trading options.Join us today and embark on a 
+                                journey towards financial empowerment and success, right here in Mumbai. 
 </p>
 
 
