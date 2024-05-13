@@ -210,7 +210,7 @@
                         </div>
                         <br>
 
-                        <h5>  Make better trading decisions with AI-driven support.</h5><br />
+                        <h5>  Make better trading decisions with AI-driven support.</h5><br /><br>
 
 
                     </div>
@@ -222,8 +222,8 @@
                         </div>
                         <br>
 
-                        <h5>Interact with ChatGPT for trading tactics and news.
-                        </h5>
+                        <h5>Interact with ChatGPT for trading <br> tactics and news.
+                        </h5><br><br>
 
                     </div>
                 </div>
@@ -369,7 +369,7 @@
                                                     </a> </div>
                                                 <div class="blog-content">
                                                     <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets.</p>
-                                                    <br>
+                                                    <br><br><br><br>
                                                 </div>
                                             </div>
                                         </div>
@@ -414,7 +414,7 @@
                                                     </a> </div>
                                                 <div class="blog-content">
                                                     <p>TradersEra provides top-notch security for online businesses with advanced protocols like encryption, multi-factor authentication, and more for data and asset protection.
-                                                    </p>
+                                                    </p><br>
                                                 </div>
 
                                             </div>

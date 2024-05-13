@@ -189,10 +189,10 @@
                         </div>
                         <br>
 
-                        <h5>Stay informed about market trends with ChatGPT, customized for Myanmar, providing timely insights and analysis to aid trading decisions.
+                        <h5>Stay informed about market trends <br> with ChatGPT, customized for <br> Myanmar, providing timely insights and analysis to aid trading decisions.
 
                         </h5>
-
+<br>
 
                     </div>
                 </div>
@@ -217,9 +217,12 @@
                         </div>
                         <br>
 
-                        <h5>Get trading tactics and personalized assistance from ChatGPT, organized for Burmese traders, offering customized guidance for improved trading experiences.
+                        <h5>
+                            Get trading tactics and personalized  assistance from ChatGPT, organized <br> for Burmese traders, offering customized  guidance for  improved trading experiences.
 
                         </h5>
+                        
+                        
 
                     </div>
                 </div>
@@ -311,7 +314,7 @@
                         </div>
 
                         <p>
-                        <h5> Enjoy seamless, user-friendly trading experiences, ensuring convenience and efficiency in Myanmar's trading landscape.
+                        <h5> Enjoy seamless, user-friendly trading experiences,<br> ensuring convenience and efficiency in Myanmar's trading landscape.
 
                         </h5>
 
@@ -448,7 +451,7 @@
                                                     </a> </div>
                                                 <div class="blog-content">
                                                     <p><b>Access Award-Winning MetaTrader 5:  </b> Gain access to the award-winning MetaTrader 5 platform for diverse and liquid markets, providing advanced trading features and analysis tools tailored to the trading needs in Myanmar.
-
+<br><br><br>
 
 
                                                     </p>
