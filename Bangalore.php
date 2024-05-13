@@ -193,7 +193,7 @@
                         </div>
                         <br>
 
-                        <h5> Get real-time Indian and International market insights and analysis with ChatGPT.
+                        <h5> Get real-time Indian and <br>International market insights and analysis with ChatGPT.
                         </h5>
 
 
@@ -206,9 +206,7 @@
                         </div>
                         <br>
 
-                        <h5>  Make better trading decisions with AI-driven support.</h5>
-
-
+                        <h5>  Make better trading decisions with<br> AI-driven support.</h5><br>
                     </div>
                 </div>
                 <div class="col-lg-4 r9-mt-40">
@@ -218,8 +216,8 @@
                         </div>
                         <br>
 
-                        <h5>Interact with ChatGPT for trading tactics and news.
-                        </h5>
+                        <h5>Interact with ChatGPT for trading <br>tactics and news.
+                        </h5><br>
 
                     </div>
                 </div>
