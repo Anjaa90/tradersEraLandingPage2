@@ -605,7 +605,7 @@
                             <p>With low spreads, no commission fees, and a super easy-to-use interface, 
                                 we're here to make trading fun and profitable for you. Join us as we redefine 
                                 the trading experience, right from the heart of Delhi. 
-                                Let's make some trading magic happen together with TradersEra</p>
+                              </p>
 
 
 

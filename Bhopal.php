@@ -604,7 +604,7 @@
 
                           
 
-                            <p>Thank you for exploring TradersEra! With low spreads, no commission fees, and high leverage, trading has never been easier. Join us in Bhopal and amplify your success in the brokerage world. Let's trade together
+                            <p>With low spreads, no commission fees, and high leverage, trading has never been easier. Join us in Bhopal and amplify your success in the brokerage world. Let's trade together
 
 </p>
 

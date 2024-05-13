@@ -598,7 +598,7 @@ h
 
                           
 
-                            <p>In Ahmedabad, elevate your trading game with TradersEra. Explore diverse options, seamless navigation, and top-notch security measures. Join us now and redefine your financial future
+                            <p>In Ahmedabad, elevate your trading game with TradersEra. Explore diverse options, seamless navigation, and top-notch security measures. Join us now and redefine your financial future.
 
 </p>
 

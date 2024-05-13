@@ -608,9 +608,7 @@
                             <p>With our user-friendly interface, advanced security measures, and a wide array of trading options, 
                                 we empower you to navigate the complexities of the market with ease. Whether you're drawn to cryptocurrency, 
                                 FX, or traditional assets, our platform caters to your every need. Join the ranks of successful traders in 
-                                Kolkata and beyond by becoming an IB with TradersEra. Start your journey today, and let Kolkata be the 
-                                backdrop to your trading success story.
-
+                                Kolkata and beyond by becoming an IB with TradersEra. 
 </p>
 
 

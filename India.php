@@ -68,9 +68,8 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Start Trading Today!</h2>
-                            <br>
-                            <h4>Providing Binary Options, AI Assistance, and Forex Trading.</h4>
+                            <h2 class="text-white">Providing Binary Options, AI Assistance, and Forex Trading.</h2>
+                            
                             <br>
                             <a class="button iq-mt-50"  href="https://tradersera.com/prelogin.php" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg"
                                     viewBox="0 0 24 24">
