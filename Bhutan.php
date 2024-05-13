@@ -60,18 +60,18 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade For The First Time With A
-                                <b class="iq-font-yellow">Little Initial Deposit</b>
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Various Trading Options In
+                                <b class="iq-font-yellow"> One Platform</b>
                             </h1>
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">For the finest trading
+                            <h2 class="text-white">Discover a Variety of Trading Options with Just a Small Deposit
                             </h2>
                             <br>
-                            <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5>
+                           
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
