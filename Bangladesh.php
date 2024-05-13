@@ -68,10 +68,10 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">For the finest trading
-                            </h2>
+                            <!-- <h2 class="text-white">For the finest trading
+                            </h2> -->
                             <br>
-                            <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5>
+                            <h3>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h3>
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
