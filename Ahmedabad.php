@@ -62,7 +62,7 @@ h
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade With Ease In One platform with various
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade With Ease In One Platform With Various
 
                                  <b class="iq-font-yellow">Trading Options</b>
                             </h1>
