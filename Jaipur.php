@@ -210,7 +210,7 @@
                         </div>
                         <br>
 
-                        <h5>  Make better trading decisions with AI-driven support.</h5><br />
+                        <h5>  Make better trading decisions with <br>AI-driven support.</h5><br /><br>
 
 
                     </div>
@@ -222,8 +222,8 @@
                         </div>
                         <br>
 
-                        <h5>Interact with ChatGPT for trading tactics and news.
-                        </h5>
+                        <h5>Interact with ChatGPT for trading <br>tactics and news.
+                        </h5><br><br>
 
                     </div>
                 </div>

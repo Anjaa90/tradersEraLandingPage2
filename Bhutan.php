@@ -186,7 +186,7 @@
                         </div>
                         <br>
 
-                        <h5> Stay informed about market trends with ChatGPT, customized for Bhutan, providing timely insights and analysis to aid trading decisions.
+                        <h5> Stay informed about market trends <br>with ChatGPT, customized for Bhutan, providing timely insights and analysis <br>to aid trading decisions.
 
                         </h5><br />
 
@@ -213,9 +213,8 @@
                         </div>
                         <br>
 
-                        <h5>Get trading tactics and personalized assistance from ChatGPT, organized for Bhutanese traders, offering customized guidance
+                        <h5>Get trading tactics and personalized assistance from ChatGPT,<br> organized for Bhutanese traders, offering customized guidance
                              for improved trading experiences.
-
                         </h5>
 
                     </div>
@@ -306,7 +305,7 @@
                         </div>
 
                         <p>
-                        <h5> Enjoy seamless, user-friendly trading experiences, ensuring convenience and efficiency in Bhutan's trading landscape.
+                        <h5> Enjoy seamless, user-friendly trading experiences, <br>ensuring convenience and efficiency in Bhutan's trading landscape.
 
 
                         </h5>

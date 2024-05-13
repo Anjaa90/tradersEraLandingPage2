@@ -184,7 +184,7 @@
                         </div>
                         <br>
 
-                        <h5>Stay informed about market trends with ChatGPT, customized for Bangladesh, providing timely
+                        <h5>Stay informed about market trends <br>with ChatGPT, customized for Bangladesh, providing timely
                             insights.
                         </h5><br />
 
@@ -198,7 +198,7 @@
                         </div>
                         <br>
 
-                        <h5> Enhance trading decisions with AI-driven insights, customized for Bangladesh, aiding
+                        <h5> Enhance trading decisions with <br>AI-driven insights, customized for Bangladesh, aiding
                             informed choices.</h5><br />
 
 
@@ -211,8 +211,8 @@
                         </div>
                         <br>
 
-                        <h5>Get trading tactics and personalized assistance from ChatGPT, organize for Bangladesh
-                            traders, offering tailored guidance
+                        <h5>Get trading tactics and personalized assistance from ChatGPT, organize <br>for Bangladesh
+                            traders, offering <br>tailored guidance
                         </h5>
 
                     </div>
