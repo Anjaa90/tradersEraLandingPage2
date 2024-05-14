@@ -458,33 +458,7 @@
                                 </div>
 
 
-                                <div class="owl-item" style="width: 362px; margin-right: 30px;">
-                                    <div class="item">
-                                        <div class="iq-blog-box">
-                                            <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block"
-                                                    src="images/tradersera landing page advanced security measures png-compressed (2).jpg"
-                                                    alt="#">
-                                            </div>
-                                            <div class="iq-blog-detail">
-                                                <div class="blog-title"> <a href="#">
-                                                        <h5 class="iq-tw-7 iq-mb-10">For Your Clients</h5>
-                                                    </a> </div>
-                                                <div class="blog-content">
-                                                    <p><b>Access Award-Winning MetaTrader 5: </b> Gain access to the
-                                                        award-winning MetaTrader 5 platform for diverse and liquid
-                                                        markets, providing advanced trading features and analysis tools
-                                                        tailored to the trading needs in Myanmar.
-                                                        <br><br><br>
-
-
-                                                    </p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
 
                             </div>
                         </div>
