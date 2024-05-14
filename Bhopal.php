@@ -376,7 +376,7 @@
                                                 <div class="blog-content">
                                                     <p>TradersEra offers diverse trading options, including
                                                         cryptocurrency, FX, and traditional assets.</p>
-                                                    <br>
+                                                    <br><br><br><br>
                                                 </div>
                                             </div>
                                         </div>
@@ -401,8 +401,8 @@
                                                 <div class="blog-content">
                                                     <p>TradersEra focuses on user experience with its easy-to-use
                                                         interface, catering to both experienced traders and beginners
-                                                        for seamless navigation and fast transactions. </p>
-                                                    <br><br />
+                                                        for seamless navigation and fast transactions. </p><br>
+                                                   
                                                 </div>
 
                                             </div>
@@ -425,7 +425,7 @@
                                                     <p>TradersEra provides top-notch security for online businesses with
                                                         advanced protocols like encryption, multi-factor authentication,
                                                         and more for data and asset protection.
-                                                    </p>
+                                                    </p><br>
                                                 </div>
 
                                             </div>

@@ -369,7 +369,7 @@ h
                                                 <div class="blog-content">
                                                     <p>TradersEra offers diverse trading options, including
                                                         cryptocurrency, FX, and traditional assets.</p>
-                                                    <br><br>
+                                                    <br><br><br>
                                                 </div>
                                             </div>
                                         </div>
@@ -394,7 +394,7 @@ h
                                                 <div class="blog-content">
                                                     <p>TradersEra focuses on user experience with its easy-to-use
                                                         interface, catering to both experienced traders and beginners
-                                                        for seamless navigation and fast transactions. </p>
+                                                        for seamless navigation and fast transactions. </p><br>
 
                                                 </div>
 
