@@ -513,8 +513,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                            <h6>Register</h6>
+                        <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
 
@@ -522,24 +522,25 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/05.png" alt="icon" class="img-fluid">
-                            <h6>Verify</h6>
+                        <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
+                         <h5 style="margin-top:15px;"><b>Verify</b></h5>
+
                             <br>
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Fund</h6>
+                            <<img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
+                             <h5 style="margin-top:15px;"><b>Fund</b></h5>
                             <br>
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Trade</h6>
+                            <<img src="images/icon/Trade.png" alt="icon" class="img-fluid">
+                            <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
 

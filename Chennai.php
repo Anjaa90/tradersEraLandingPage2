@@ -70,17 +70,19 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Improve Your Trading with Binary Options, AI Assistance, and Forex 
+                            <h2 class="text-white">Improve Your Trading with Binary Options, AI Assistance, and Forex
 
 
 
                             </h2>
                             <br><br>
 
-             <p>Unlock boundless trading opportunities in Chennai with TradersEra, Dive into diverse trading options with a minimum deposit, including Binary options, AI assistance, and Forex Trading - Start now
+                            <p>Unlock boundless trading opportunities in Chennai with TradersEra, Dive into diverse
+                                trading options with a minimum deposit, including Binary options, AI assistance, and
+                                Forex Trading - Start now
 
 
-</p>
+                            </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
@@ -104,7 +106,7 @@
     <!-- banner -->
 
 
- <!-- Our Mission -->
+    <!-- Our Mission -->
 
     <!-- Our Mission END -->
 
@@ -113,8 +115,8 @@
 
 
 
-      <!-- What is OVEX -->
-      <section class="overview-block-ptb trending-2">
+    <!-- What is OVEX -->
+    <section class="overview-block-ptb trending-2">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 align-self-center">
@@ -141,7 +143,9 @@
                         <li>
                             <h5>Enjoy high liquidity for swift trades and minimal slippage.</h5>
                         </li>
-                        <li><h5>Low starting amount: Begin trading with just $10 for accessibility.</h5></li>
+                        <li>
+                            <h5>Low starting amount: Begin trading with just $10 for accessibility.</h5>
+                        </li>
                         <li>
                             <h5>Access currencies, gold, oil, and indices for diverse trading.</h5>
                         </li>
@@ -201,7 +205,7 @@
                         <br>
 
                         <h5> Get real-time Indian and International market insights and analysis <br>with ChatGPT.
-                        </h5><br/>
+                        </h5><br />
                     </div>
                 </div>
                 <div class="col-lg-4 r9-mt-40">
@@ -211,7 +215,7 @@
                         </div>
                         <br>
 
-                        <h5>  Make better trading decisions with<br> AI-driven support.</h5><br /><br>
+                        <h5> Make better trading decisions with<br> AI-driven support.</h5><br /><br>
 
 
                     </div>
@@ -225,7 +229,7 @@
 
                         <h5>Interact with ChatGPT for trading <br>tactics and news.
                         </h5>
-<br><br>
+                        <br><br>
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
@@ -268,25 +272,25 @@
                             <h4 style="color:black"><b>Fixed Returns</b></h4>
                         </div>
 
-                        
+
                         <h5> Know potential profits and losses upfront.
                         </h5>
-                        
+
                     </div>
                 </div>
-          
+
             </div>
         </div>
     </section>
     <!-- timeline -->
 
-<br><br>
+    <br><br>
 
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
-        
+
             <div class="row">
-               
+
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
@@ -310,7 +314,7 @@
                         </div>
 
                         <p>
-                        <h5>  Enjoy ease with binary options.
+                        <h5> Enjoy ease with binary options.
 
                         </h5>
 
@@ -369,7 +373,8 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets.</p>
+                                                    <p>TradersEra offers diverse trading options, including
+                                                        cryptocurrency, FX, and traditional assets.</p>
                                                     <br>
                                                 </div>
                                             </div>
@@ -393,7 +398,9 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra focuses on user experience with its easy-to-use interface, catering to both experienced traders and beginners for seamless navigation and fast transactions. </p>
+                                                    <p>TradersEra focuses on user experience with its easy-to-use
+                                                        interface, catering to both experienced traders and beginners
+                                                        for seamless navigation and fast transactions. </p>
                                                     <br><br />
                                                 </div>
 
@@ -414,7 +421,9 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p>TradersEra provides top-notch security for online businesses with advanced protocols like encryption, multi-factor authentication, and more for data and asset protection.
+                                                    <p>TradersEra provides top-notch security for online businesses with
+                                                        advanced protocols like encryption, multi-factor authentication,
+                                                        and more for data and asset protection.
                                                     </p>
                                                 </div>
 
@@ -467,12 +476,14 @@
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <ul class="listing-mark iq-mtb-20">
                         <li><b>Low spreads :</b> spreads as low as 0.4 pips consistently.</li>
-                        <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or spread-only accounts.</li>
-                    
+                        <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or
+                            spread-only accounts.</li>
+
                         <li>Low starting amount: Begin trading with just $10 for accessibility.</li>
-                        <li><b>High leverage:</b>  Maximize potential with up to 1:1000 leverage.</li>
+                        <li><b>High leverage:</b> Maximize potential with up to 1:1000 leverage.</li>
                         <li>Fast order execution: Execute trades within milliseconds to minimize slippage.</li>
-                        <li>Micro lot trading: Start with micro lot trading from $0.10 per pip to manage risk effectively.</li>
+                        <li>Micro lot trading: Start with micro lot trading from $0.10 per pip to manage risk
+                            effectively.</li>
                     </ul>
                 </div>
                 <div class="col-sm-12 ">
@@ -500,8 +511,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                            <h6>Register</h6>
+                            <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
 
@@ -509,24 +520,25 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/05.png" alt="icon" class="img-fluid">
-                            <h6>Verify</h6>
+                            <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Verify</b></h5>
+
                             <br>
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Fund</h6>
+                            <img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Fund</b></h5>
                             <br>
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Trade</h6>
+                            <img src="images/icon/Trade.png" alt="icon" class="img-fluid">
+                            <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
 
@@ -568,7 +580,8 @@
 
                     </div>
                     <p><b>For Your Clients : </b>Access award-winning MetaTrader 5 for diverse, liquid markets.</p>
-                    <p><b>For Introducing Brokers: </b>Partner with a reputable company for real-time support and earning potential.</p>
+                    <p><b>For Introducing Brokers: </b>Partner with a reputable company for real-time support and
+                        earning potential.</p>
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
@@ -597,22 +610,24 @@
             <div class="container">
                 <div class="row justify-content-md-center">
                     <div class="col-lg-12">
-                       
+
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                          
 
-                            <p>Illuminate your path to financial success in Chennai with TradersEra. Explore major currency pairs, cryptocurrencies, and more with our user-friendly platform. Join us today as an Introducing Broker and amplify your success with TradersEra
 
-</p>
+                            <p>Illuminate your path to financial success in Chennai with TradersEra. Explore major
+                                currency pairs, cryptocurrencies, and more with our user-friendly platform. Join us
+                                today as an Introducing Broker and amplify your success with TradersEra
+
+                            </p>
 
 
 
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
-                           
+
 
                         </div>
                     </div>

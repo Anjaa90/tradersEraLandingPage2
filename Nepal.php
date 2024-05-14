@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Best Trading Platform For 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Best Trading Platform For
 
                                 <b class="iq-font-yellow">Low-Cost Deposits In Nepal</b>
                             </h1>
@@ -122,21 +122,25 @@
                             </h5>
                         </li>
                         <li>
-                            <h5>Enjoy high liquidity for swift trades and minimal slippage, even when trading the Nepali Rupee.
+                            <h5>Enjoy high liquidity for swift trades and minimal slippage, even when trading the Nepali
+                                Rupee.
 
                             </h5>
                         </li>
                         <li>
-                            <h5>Access currencies, gold, oil, indices, and other assets for diverse trading, including opportunities related to Nepal's economy.
-</h5>
+                            <h5>Access currencies, gold, oil, indices, and other assets for diverse trading, including
+                                opportunities related to Nepal's economy.
+                            </h5>
                         </li>
                         <li>
-                            <h5>Engage in the world's largest market with major currency pairs, alongside the Nepali Rupee.
+                            <h5>Engage in the world's largest market with major currency pairs, alongside the Nepali
+                                Rupee.
 
                             </h5>
                         </li>
                         <li>
-                            <h5>Benefit from high liquidity and diverse asset trading options, including those relevant to Nepal's financial landscape.
+                            <h5>Benefit from high liquidity and diverse asset trading options, including those relevant
+                                to Nepal's financial landscape.
 
                             </h5>
                         </li>
@@ -184,12 +188,13 @@
                 <div class="col-lg-4">
                     <div class="fancy-box">
                         <div class="heading ">
-                            <h4  style="color:black"><b>Live Updates</b></h4>
+                            <h4 style="color:black"><b>Live Updates</b></h4>
 
                         </div>
                         <br>
 
-                        <h5>Stay informed about the market's latest trends and analysis in real-time with ChatGPT, customized for the Nepali market.
+                        <h5>Stay informed about the market's latest trends and analysis in real-time with ChatGPT,
+                            customized for the Nepali market.
 
                         </h5><br />
 
@@ -199,13 +204,13 @@
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4  style="color:black"><b>Smarter Choices</b></h4>
+                            <h4 style="color:black"><b>Smarter Choices</b></h4>
                         </div>
                         <br>
 
-                        <h5>Enhance your trading decisions with 
+                        <h5>Enhance your trading decisions with
                             <br>AI-driven insights and support, customized for the Nepali trading landscape.
-</h5><br />
+                        </h5><br />
 
 
                     </div>
@@ -213,13 +218,14 @@
                 <div class="col-lg-4 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4  style="color:black"><b>Chat support</b></h4>
+                            <h4 style="color:black"><b>Chat support</b></h4>
                         </div>
                         <br>
 
-                        <h5> Engage with ChatGPT for trading <br> tactics, news updates, and personalized assistance, specifically curated for traders in Nepal.
+                        <h5> Engage with ChatGPT for trading <br> tactics, news updates, and personalized assistance,
+                            specifically curated for traders in Nepal.
                         </h5>
-<br>
+                        <br>
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
@@ -245,7 +251,7 @@
                 <div class="col-lg-6">
                     <div class="fancy-box">
                         <div class="heading ">
-                            <h4  style="color:black"> <b>Simplify Binary Options</b></h4>
+                            <h4 style="color:black"> <b>Simplify Binary Options</b></h4>
 
                         </div>
 
@@ -260,38 +266,40 @@
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4  style="color:black"><b>Fixed
-                                Returns</b></h4>
+                            <h4 style="color:black"><b>Fixed
+                                    Returns</b></h4>
                         </div>
 
                         <p>
-                        <h5> Understand potential profits and losses upfront, offering clarity and certainty in trading outcomes.
+                        <h5> Understand potential profits and losses upfront, offering clarity and certainty in trading
+                            outcomes.
 
                         </h5>
-                        
+
                     </div>
                 </div>
-          
+
             </div>
         </div>
     </section>
     <!-- timeline -->
 
-<br><br>
+    <br><br>
 
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
-        
+
             <div class="row">
-               
+
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4  style="color:black"><b>Diverse Asset Access</b></h4>
+                            <h4 style="color:black"><b>Diverse Asset Access</b></h4>
                         </div>
 
                         <p>
-                        <h5>Access a wide range of assets including cryptocurrencies, commodities, stocks, and forex, providing ample opportunities for trading diversity.
+                        <h5>Access a wide range of assets including cryptocurrencies, commodities, stocks, and forex,
+                            providing ample opportunities for trading diversity.
 
                         </h5>
 
@@ -302,11 +310,12 @@
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
-                            <h4  style="color:black"><b>Hassle-free Trading</b></h4>
+                            <h4 style="color:black"><b>Hassle-free Trading</b></h4>
                         </div>
 
                         <p>
-                        <h5> Enjoy seamless trading experiences with binary options, ensuring convenience and efficiency in your trading activities in Nepal.
+                        <h5> Enjoy seamless trading experiences with binary options, ensuring convenience and efficiency
+                            in your trading activities in Nepal.
 
                         </h5>
 
@@ -362,10 +371,13 @@
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
-                                                        <h5 class="iq-tw-7 iq-mb-10" >Trading Options</h5>
+                                                        <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Diverse Trading Options:</b>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets, enabling clients in Nepal to diversify portfolios and capitalize on market trends across various asset classes.
+                                                    <p><b>Diverse Trading Options:</b>TradersEra offers diverse trading
+                                                        options, including cryptocurrency, FX, and traditional assets,
+                                                        enabling clients in Nepal to diversify portfolios and capitalize
+                                                        on market trends across various asset classes.
 
                                                     </p>
                                                     <br>
@@ -391,7 +403,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Intuitive Design:</b> TradersEra prioritizes user experience with its intuitive interface, designed for easy navigation and fast transactions, catering to both experienced traders and beginners in Nepal.
+                                                    <p><b>Intuitive Design:</b> TradersEra prioritizes user experience
+                                                        with its intuitive interface, designed for easy navigation and
+                                                        fast transactions, catering to both experienced traders and
+                                                        beginners in Nepal.
 
 
                                                     </p>
@@ -415,7 +430,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Top-Notch Security:</b>TradersEra ensures top-notch security for online businesses in Nepal with advanced protocols like encryption, multi-factor authentication, and more, safeguarding data and assets against cyber threats and vulnerabilities.
+                                                    <p><b>Top-Notch Security:</b>TradersEra ensures top-notch security
+                                                        for online businesses in Nepal with advanced protocols like
+                                                        encryption, multi-factor authentication, and more, safeguarding
+                                                        data and assets against cyber threats and vulnerabilities.
 
                                                     </p>
                                                 </div>
@@ -503,8 +521,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                            <h6>Register</h6>
+                            <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
 
@@ -512,24 +530,25 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/05.png" alt="icon" class="img-fluid">
-                            <h6>Verify</h6>
+                            <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Verify</b></h5>
                             <br>
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Fund</h6>
+                            <img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Fund</b></h5>
                             <br>
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Trade</h6>
+
+                            <img src="images/icon/Trade.png" alt="icon" class="img-fluid">
+                            <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
 
@@ -570,13 +589,17 @@
                         <h3>Become a Partner</h3>
 
                     </div>
-                    <p><b>Partner with a Reputable Company : </b>Collaborate with a reputable company offering real-time support and substantial earning potential, ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Nepal.
+                    <p><b>Partner with a Reputable Company : </b>Collaborate with a reputable company offering real-time
+                        support and substantial earning potential, ensuring a mutually beneficial partnership in the
+                        dynamic brokerage landscape of Nepal.
 
                     </p>
-                    <p><b>Join TradersEra as an IB : </b>Amplify your success in the brokerage world by joining TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your earning opportunities and support network in Nepal.
+                    <p><b>Join TradersEra as an IB : </b>Amplify your success in the brokerage world by joining
+                        TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your
+                        earning opportunities and support network in Nepal.
 
                     </p>
-                  
+
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
@@ -687,7 +710,7 @@
     </section>
     <!-- FAQ END -->
 
- 
+
     <!-- PARTNERS END -->
     </div>
     <div class="modal fade iq-login" tabindex="-1" role="dialog" aria-hidden="true">

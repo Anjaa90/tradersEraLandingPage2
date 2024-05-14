@@ -60,7 +60,7 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Multiple Trading Choices On 
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Multiple Trading Choices On
 
 
                                 <b class="iq-font-yellow">A Single Platform</b>
@@ -70,12 +70,13 @@
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
 
-                            <h2 class="text-white">Diverse Forex Trading Options and Seamless Support 
+                            <h2 class="text-white">Diverse Forex Trading Options and Seamless Support
 
                             </h2>
                             <br>
-                            <h5>Maximize Investments with Our All-in-One Online Platform for Binary Options, AI Assistance, and Forex Trading
-</h5>
+                            <h5>Maximize Investments with Our All-in-One Online Platform for Binary Options, AI
+                                Assistance, and Forex Trading
+                            </h5>
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -119,27 +120,31 @@
                     </ul> -->
                     <ul class="listing-mark iq-mtb-20">
                         <li>
-                            <h5><b>Trade Major Currency Pairs : </b> Engage in global markets with major currency pairs, including the Burmese kyat, for comprehensive trading opportunities.
+                            <h5><b>Trade Major Currency Pairs : </b> Engage in global markets with major currency pairs,
+                                including the Burmese kyat, for comprehensive trading opportunities.
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>High Liquidity : </b> Enjoy liquidity for swift trades, even with the Burmese kyat, ensuring efficient executions and seamless trading experiences.
+                            <h5><b>High Liquidity : </b> Enjoy liquidity for swift trades, even with the Burmese kyat,
+                                ensuring efficient executions and seamless trading experiences.
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>Access Diverse Assets: </b> Explore currencies, gold, oil, and indices relevant to Myanmar's economy, offering diverse trading opportunities tailored to local preferences.
+                            <h5><b>Access Diverse Assets: </b> Explore currencies, gold, oil, and indices relevant to
+                                Myanmar's economy, offering diverse trading opportunities tailored to local preferences.
 
-</h5>
+                            </h5>
                         </li>
                         <li>
-                            <h5><b>Engage in the World's Largest Market: </b> Participate in the forex market with major currency pairs, tapping into vast opportunities alongside the Burmese kyat.
+                            <h5><b>Engage in the World's Largest Market: </b> Participate in the forex market with major
+                                currency pairs, tapping into vast opportunities alongside the Burmese kyat.
 
 
                             </h5>
                         </li>
-                    
+
 
 
                     </ul>
@@ -189,10 +194,11 @@
                         </div>
                         <br>
 
-                        <h5>Stay informed about market trends <br> with ChatGPT, customized for <br> Myanmar, providing timely insights and analysis to aid trading decisions.
+                        <h5>Stay informed about market trends <br> with ChatGPT, customized for <br> Myanmar, providing
+                            timely insights and analysis to aid trading decisions.
 
                         </h5>
-<br>
+                        <br>
 
                     </div>
                 </div>
@@ -203,9 +209,10 @@
                         </div>
                         <br>
 
-                        <h5>Enhance trading decisions with AI-driven insights, customized for Myanmar, providing valuable guidance for informed choices.
+                        <h5>Enhance trading decisions with AI-driven insights, customized for Myanmar, providing
+                            valuable guidance for informed choices.
 
-</h5><br />
+                        </h5><br />
 
 
                     </div>
@@ -218,11 +225,12 @@
                         <br>
 
                         <h5>
-                            Get trading tactics and personalized  assistance from ChatGPT, organized <br> for Burmese traders, offering customized  guidance for  improved trading experiences.
+                            Get trading tactics and personalized assistance from ChatGPT, organized <br> for Burmese
+                            traders, offering customized guidance for improved trading experiences.
 
                         </h5>
-                        
-                        
+
+
 
                     </div>
                 </div>
@@ -254,7 +262,8 @@
                         </div>
 
                         <p>
-                        <h5>Easily forecast asset movements within set time frames, streamlining trading for the Burmese community and ensuring a hassle-free experience.
+                        <h5>Easily forecast asset movements within set time frames, streamlining trading for the Burmese
+                            community and ensuring a hassle-free experience.
 
 
                         </h5>
@@ -266,31 +275,32 @@
                     <div class="fancy-box">
                         <div class="heading">
                             <h4 style="color:black"><b>Fixed
-                                Returns</b></h4>
+                                    Returns</b></h4>
                         </div>
 
                         <p>
-                        <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes and offering clarity for informed decision-making.
+                        <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes and
+                            offering clarity for informed decision-making.
 
 
                         </h5>
                         </p>
-                      
+
                     </div>
                 </div>
-          
+
             </div>
         </div>
     </section>
     <!-- timeline -->
 
-<br><br>
+    <br><br>
 
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
-        
+
             <div class="row">
-               
+
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
@@ -298,7 +308,8 @@
                         </div>
 
                         <p>
-                        <h5> Trade cryptocurrencies, commodities, stocks, and forex, catering to diverse trading preferences in Myanmar, providing ample opportunities for portfolio diversification.
+                        <h5> Trade cryptocurrencies, commodities, stocks, and forex, catering to diverse trading
+                            preferences in Myanmar, providing ample opportunities for portfolio diversification.
 
 
                         </h5>
@@ -314,7 +325,8 @@
                         </div>
 
                         <p>
-                        <h5> Enjoy seamless, user-friendly trading experiences,<br> ensuring convenience and efficiency in Myanmar's trading landscape.
+                        <h5> Enjoy seamless, user-friendly trading experiences,<br> ensuring convenience and efficiency
+                            in Myanmar's trading landscape.
 
                         </h5>
 
@@ -373,7 +385,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Diverse Trading Options: </b> TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets, enabling clients in Myanmar to diversify portfolios and capitalize on market trends across various asset classes.
+                                                    <p><b>Diverse Trading Options: </b> TradersEra offers diverse
+                                                        trading options, including cryptocurrency, FX, and traditional
+                                                        assets, enabling clients in Myanmar to diversify portfolios and
+                                                        capitalize on market trends across various asset classes.
 
 
                                                     </p>
@@ -400,7 +415,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Intuitive Design : </b>TradersEra prioritizes user experience with its intuitive interface, designed for easy navigation and fast transactions, catering to both experienced traders and beginners in Myanmar.
+                                                    <p><b>Intuitive Design : </b>TradersEra prioritizes user experience
+                                                        with its intuitive interface, designed for easy navigation and
+                                                        fast transactions, catering to both experienced traders and
+                                                        beginners in Myanmar.
 
 
 
@@ -425,7 +443,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Top-Notch Security : </b>TradersEra ensures top-notch security for online businesses in Myanmar with advanced protocols like encryption, multi-factor authentication, and more, safeguarding data and assets against cyber threats and vulnerabilities.
+                                                    <p><b>Top-Notch Security : </b>TradersEra ensures top-notch security
+                                                        for online businesses in Myanmar with advanced protocols like
+                                                        encryption, multi-factor authentication, and more, safeguarding
+                                                        data and assets against cyber threats and vulnerabilities.
 
 
                                                     </p>
@@ -450,8 +471,11 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">For Your Clients</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Access Award-Winning MetaTrader 5:  </b> Gain access to the award-winning MetaTrader 5 platform for diverse and liquid markets, providing advanced trading features and analysis tools tailored to the trading needs in Myanmar.
-<br><br><br>
+                                                    <p><b>Access Award-Winning MetaTrader 5: </b> Gain access to the
+                                                        award-winning MetaTrader 5 platform for diverse and liquid
+                                                        markets, providing advanced trading features and analysis tools
+                                                        tailored to the trading needs in Myanmar.
+                                                        <br><br><br>
 
 
                                                     </p>
@@ -540,8 +564,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                            <h6>Register</h6>
+                            <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
 
@@ -549,24 +573,25 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/05.png" alt="icon" class="img-fluid">
-                            <h6>Verify</h6>
+                            <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Verify</b></h5>
                             <br>
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Fund</h6>
+                            <img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Fund</b></h5>
+
                             <br>
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Trade</h6>
+                            <img src="images/icon/Trade.png" alt="icon" class="img-fluid">
+                            <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
 
@@ -605,18 +630,22 @@
                     <div class="heading-title left">
                         <!-- <small class="iq-font-green">Become a Partner</small> -->
                         <h3>Become an IB:
-</h3>
+                        </h3>
 
                     </div>
-                    <p><b>Partner with a Reputable Company:</b>Collaborate with a reputable company offering real-time support and substantial earning potential, ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Myanmar.
+                    <p><b>Partner with a Reputable Company:</b>Collaborate with a reputable company offering real-time
+                        support and substantial earning potential, ensuring a mutually beneficial partnership in the
+                        dynamic brokerage landscape of Myanmar.
 
 
                     </p>
-                    <p><b>Join TradersEra as an IB: </b>Amplify your success in the brokerage world by joining TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your earning opportunities and support network in Myanmar.
+                    <p><b>Join TradersEra as an IB: </b>Amplify your success in the brokerage world by joining
+                        TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your
+                        earning opportunities and support network in Myanmar.
 
 
                     </p>
-                  
+
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
@@ -727,7 +756,7 @@
     </section>
     <!-- FAQ END -->
 
-  
+
     <!-- PARTNERS END -->
     </div>
     <div class="modal fade iq-login" tabindex="-1" role="dialog" aria-hidden="true">

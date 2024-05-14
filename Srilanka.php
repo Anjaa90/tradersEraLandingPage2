@@ -118,22 +118,26 @@
                     </ul> -->
                     <ul class="listing-mark iq-mtb-20">
                         <li>
-                            <h5><b>Trade Major Currency Pairs : </b> Engage in global markets with major currency pairs, including the Sri Lankan rupee.
+                            <h5><b>Trade Major Currency Pairs : </b> Engage in global markets with major currency pairs,
+                                including the Sri Lankan rupee.
 
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>High Liquidity : </b>Enjoy liquidity for swift trades, even with the Sri Lankan rupee, ensuring efficient executions.
+                            <h5><b>High Liquidity : </b>Enjoy liquidity for swift trades, even with the Sri Lankan
+                                rupee, ensuring efficient executions.
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>Access Diverse Assets : </b> Explore currencies, gold, oil, and indices relevant to Sri Lanka's economy, offering diverse trading opportunities.
+                            <h5><b>Access Diverse Assets : </b> Explore currencies, gold, oil, and indices relevant to
+                                Sri Lanka's economy, offering diverse trading opportunities.
                             </h5>
                         </li>
                         <li>
-                            <h5><b>Engage in the World's Largest Market : </b> Participate in the forex market with major currency pairs, tapping into vast opportunities alongside the Sri Lankan rupee.
+                            <h5><b>Engage in the World's Largest Market : </b> Participate in the forex market with
+                                major currency pairs, tapping into vast opportunities alongside the Sri Lankan rupee.
 
 
                             </h5>
@@ -187,7 +191,8 @@
                         </div>
                         <br>
 
-                        <h5> Stay informed about market trends with ChatGPT, customized for Sri Lanka, providing timely insights.
+                        <h5> Stay informed about market trends with ChatGPT, customized for Sri Lanka, providing timely
+                            insights.
 
 
                         </h5><br />
@@ -202,7 +207,8 @@
                         </div>
                         <br>
 
-                        <h5>Enhance trading decisions with AI-driven insights, customized for Sri Lanka, aiding informed choices.
+                        <h5>Enhance trading decisions with AI-driven insights, customized for Sri Lanka, aiding informed
+                            choices.
 
                         </h5><br />
 
@@ -216,7 +222,8 @@
                         </div>
                         <br>
 
-                        <h5>Get trading tactics and personalized assistance from ChatGPT, organized for Sri Lankan traders, offering customized guidance.
+                        <h5>Get trading tactics and personalized assistance from ChatGPT, organized for Sri Lankan
+                            traders, offering customized guidance.
 
                         </h5>
 
@@ -250,7 +257,8 @@
                         </div>
 
                         <p>
-                        <h5>Easily forecast asset movements within set time frames, streamlining trading for the Sri Lankan community.
+                        <h5>Easily forecast asset movements within set time frames, streamlining trading for the Sri
+                            Lankan community.
                         </h5>
                         </p>
 
@@ -262,11 +270,11 @@
                             <h4 style="color:black"><b>Fixed Returns</b></h4>
                         </div>
 
-                       
+
                         <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes.
 
                         </h5>
-                      
+
                     </div>
                 </div>
 
@@ -289,7 +297,8 @@
                         </div>
 
                         <p>
-                        <h5>Trade cryptocurrencies, commodities, stocks, and forex, catering to diverse trading preferences in Sri Lanka.
+                        <h5>Trade cryptocurrencies, commodities, stocks, and forex, catering to diverse trading
+                            preferences in Sri Lanka.
 
                         </h5>
 
@@ -304,7 +313,8 @@
                         </div>
 
                         <p>
-                        <h5>Enjoy seamless, user-friendly trading experiences, ensuring convenience and efficiency in Sri Lanka.
+                        <h5>Enjoy seamless, user-friendly trading experiences, ensuring convenience and efficiency in
+                            Sri Lanka.
 
                         </h5>
 
@@ -363,7 +373,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Diverse Trading Options:</b> TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets, enabling clients in Sri Lanka to diversify portfolios and capitalize on market trends across various asset classes.
+                                                    <p><b>Diverse Trading Options:</b> TradersEra offers diverse trading
+                                                        options, including cryptocurrency, FX, and traditional assets,
+                                                        enabling clients in Sri Lanka to diversify portfolios and
+                                                        capitalize on market trends across various asset classes.
 
 
 
@@ -391,7 +404,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface:</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Intuitive Design:</b> TradersEra prioritizes user experience with its intuitive interface, designed for easy navigation and fast transactions, catering to both experienced traders and beginners in Sri Lanka.
+                                                    <p><b>Intuitive Design:</b> TradersEra prioritizes user experience
+                                                        with its intuitive interface, designed for easy navigation and
+                                                        fast transactions, catering to both experienced traders and
+                                                        beginners in Sri Lanka.
 
 
                                                     </p>
@@ -415,7 +431,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Top-Notch Security:</b> TradersEra ensures top-notch security for online businesses in Sri Lanka with advanced protocols like encryption, multi-factor authentication, and more, safeguarding data and assets against cyber threats and vulnerabilities.
+                                                    <p><b>Top-Notch Security:</b> TradersEra ensures top-notch security
+                                                        for online businesses in Sri Lanka with advanced protocols like
+                                                        encryption, multi-factor authentication, and more, safeguarding
+                                                        data and assets against cyber threats and vulnerabilities.
 
                                                     </p>
                                                 </div>
@@ -503,8 +522,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                            <h6>Register</h6>
+                            <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
 
@@ -512,24 +531,24 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/05.png" alt="icon" class="img-fluid">
-                            <h6>Verify</h6>
+                            <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Verify</b></h5>
                             <br>
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Fund</h6>
+                            <img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Fund</b></h5>
                             <br>
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Trade</h6>
+                            <img src="images/icon/Trade.png" alt="icon" class="img-fluid">
+                            <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
 
@@ -570,9 +589,15 @@
                         <h3>Become a Partner</h3>
 
                     </div>
-                    <p><b>For Your Clients : </b>Access Award-Winning MetaTrader 5: Gain access to the award-winning MetaTrader 5 platform for diverse and liquid markets, providing advanced trading features and analysis tools tailored to the trading needs in Sri Lanka.</p>
-                    <p><b>For Introducing Brokers : </b>Partner with a Reputable Company: Collaborate with a reputable company offering real-time support and substantial earning potential, ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Sri Lanka.</p>
-                    <p><b>Join TradersEra as an IB:</b>Amplify your success in the brokerage world by joining TradersEra as an Introducing Broker, leveraging our expertise and resources to enhance your earning opportunities and support network in Sri Lanka.</p>
+                    <p><b>For Your Clients : </b>Access Award-Winning MetaTrader 5: Gain access to the award-winning
+                        MetaTrader 5 platform for diverse and liquid markets, providing advanced trading features and
+                        analysis tools tailored to the trading needs in Sri Lanka.</p>
+                    <p><b>For Introducing Brokers : </b>Partner with a Reputable Company: Collaborate with a reputable
+                        company offering real-time support and substantial earning potential, ensuring a mutually
+                        beneficial partnership in the dynamic brokerage landscape of Sri Lanka.</p>
+                    <p><b>Join TradersEra as an IB:</b>Amplify your success in the brokerage world by joining TradersEra
+                        as an Introducing Broker, leveraging our expertise and resources to enhance your earning
+                        opportunities and support network in Sri Lanka.</p>
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
@@ -683,7 +708,7 @@
     </section>
     <!-- FAQ END -->
 
-   
+
     <!-- PARTNERS END -->
     </div>
     <div class="modal fade iq-login" tabindex="-1" role="dialog" aria-hidden="true">

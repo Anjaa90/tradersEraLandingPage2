@@ -71,7 +71,7 @@
                             <h2 class="text-white">Discover a Variety of Trading Options with Just a Small Deposit
                             </h2>
                             <br>
-                           
+
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -115,25 +115,29 @@
                     </ul> -->
                     <ul class="listing-mark iq-mtb-20">
                         <li>
-                            <h5><b>Trade Major Currency Pairs :</b> Engage in global markets with major currency pairs, including the Bhutanese ngultrum, for comprehensive 
-                            trading opportunities.
+                            <h5><b>Trade Major Currency Pairs :</b> Engage in global markets with major currency pairs,
+                                including the Bhutanese ngultrum, for comprehensive
+                                trading opportunities.
 
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>High Liquidity :</b> Enjoy liquidity for swift trades, even with the Bhutanese ngultrum, ensuring 
-                            efficient executions and seamless trading experiences.
+                            <h5><b>High Liquidity :</b> Enjoy liquidity for swift trades, even with the Bhutanese
+                                ngultrum, ensuring
+                                efficient executions and seamless trading experiences.
                             </h5>
                         </li>
                         <li>
-                            <h5><b>Access Diverse Assets : </b>  Explore currencies, gold, oil, and indices relevant to Bhutan's economy, offering diverse 
-                            trading opportunities tailored to local preferences.
+                            <h5><b>Access Diverse Assets : </b> Explore currencies, gold, oil, and indices relevant to
+                                Bhutan's economy, offering diverse
+                                trading opportunities tailored to local preferences.
 
                         </li>
                         <li>
-                            <h5><b>Engage in the World's Largest Market : </b> Participate in the forex market with major currency pairs, tapping into vast 
-                            opportunities alongside the Bhutanese ngultrum.
+                            <h5><b>Engage in the World's Largest Market : </b> Participate in the forex market with
+                                major currency pairs, tapping into vast
+                                opportunities alongside the Bhutanese ngultrum.
 
                             </h5>
                         </li>
@@ -186,7 +190,8 @@
                         </div>
                         <br>
 
-                        <h5> Stay informed about market trends <br>with ChatGPT, customized for Bhutan, providing timely insights and analysis <br>to aid trading decisions.
+                        <h5> Stay informed about market trends <br>with ChatGPT, customized for Bhutan, providing timely
+                            insights and analysis <br>to aid trading decisions.
 
                         </h5><br />
 
@@ -200,8 +205,9 @@
                         </div>
                         <br>
 
-                        <h5> Enhance trading decisions with AI-driven insights, customized for Bhutan, providing valuable guidance for informed choices.
-</h5><br />
+                        <h5> Enhance trading decisions with AI-driven insights, customized for Bhutan, providing
+                            valuable guidance for informed choices.
+                        </h5><br />
 
 
                     </div>
@@ -213,8 +219,9 @@
                         </div>
                         <br>
 
-                        <h5>Get trading tactics and personalized assistance from ChatGPT,<br> organized for Bhutanese traders, offering customized guidance
-                             for improved trading experiences.
+                        <h5>Get trading tactics and personalized assistance from ChatGPT,<br> organized for Bhutanese
+                            traders, offering customized guidance
+                            for improved trading experiences.
                         </h5>
 
                     </div>
@@ -247,7 +254,8 @@
                         </div>
 
                         <p>
-                        <h5>Easily forecast asset movements within set time frames, streamlining trading for the Bhutanese community and ensuring a hassle-free experience.
+                        <h5>Easily forecast asset movements within set time frames, streamlining trading for the
+                            Bhutanese community and ensuring a hassle-free experience.
 
                         </h5>
                         </p>
@@ -260,26 +268,27 @@
                             <h4 style="color:black"><b>Fixed Returns</b></h4>
                         </div>
 
-                     
-                        <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes and offering clarity for informed decision-making.
+
+                        <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes and
+                            offering clarity for informed decision-making.
 
                         </h5>
-                        
+
                     </div>
                 </div>
-          
+
             </div>
         </div>
     </section>
     <!-- timeline -->
 
-<br><br>
+    <br><br>
 
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
-        
+
             <div class="row">
-               
+
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
@@ -287,8 +296,9 @@
                         </div>
 
                         <p>
-                        <h5>Trade cryptocurrencies, commodities, stocks, and forex, catering to diverse trading preferences in Bhutan,
-                             providing ample opportunities for portfolio diversification.
+                        <h5>Trade cryptocurrencies, commodities, stocks, and forex, catering to diverse trading
+                            preferences in Bhutan,
+                            providing ample opportunities for portfolio diversification.
 
 
 
@@ -305,14 +315,15 @@
                         </div>
 
                         <p>
-                        <h5> Enjoy seamless, user-friendly trading experiences, <br>ensuring convenience and efficiency in Bhutan's trading landscape.
+                        <h5> Enjoy seamless, user-friendly trading experiences, <br>ensuring convenience and efficiency
+                            in Bhutan's trading landscape.
 
 
                         </h5>
 
                         </p>
 
-                    </div>  
+                    </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
@@ -365,9 +376,11 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Diverse Trading Options:</b> TradersEra offers diverse trading options, including cryptocurrency, FX, and 
-                                                    traditional assets, enabling clients in Bhutan to diversify portfolios and capitalize on market 
-                                                    trends across various asset classes.
+                                                    <p><b>Diverse Trading Options:</b> TradersEra offers diverse trading
+                                                        options, including cryptocurrency, FX, and
+                                                        traditional assets, enabling clients in Bhutan to diversify
+                                                        portfolios and capitalize on market
+                                                        trends across various asset classes.
 
 
 
@@ -395,8 +408,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Intuitive Design:</b> TradersEra prioritizes user experience with its intuitive interface, 
-                                                    designed for easy navigation and fast transactions, catering to both experienced traders and beginners in Bhutan.
+                                                    <p><b>Intuitive Design:</b> TradersEra prioritizes user experience
+                                                        with its intuitive interface,
+                                                        designed for easy navigation and fast transactions, catering to
+                                                        both experienced traders and beginners in Bhutan.
 
 
 
@@ -424,9 +439,11 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Top-Notch Security:</b> TradersEra ensures top-notch security for online businesses in Bhutan with advanced 
-                                                    protocols like encryption, multi-factor authentication, and more, safeguarding data and  a Partner :assets against 
-                                                    cyber threats and vulnerabilities.
+                                                    <p><b>Top-Notch Security:</b> TradersEra ensures top-notch security
+                                                        for online businesses in Bhutan with advanced
+                                                        protocols like encryption, multi-factor authentication, and
+                                                        more, safeguarding data and a Partner :assets against
+                                                        cyber threats and vulnerabilities.
                                                     </p>
                                                 </div>
 
@@ -513,8 +530,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/04.png" alt="icon" class="img-fluid">
-                            <h6>Register</h6>
+                            <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
 
@@ -522,27 +539,26 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                            <img src="images/icon/05.png" alt="icon" class="img-fluid">
-                            <h6>Verify</h6>
+                            <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Verify</b></h5>
                             <br>
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Fund</h6>
+                            <img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Fund</b></h5>
                             <br>
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                            <img src="images/icon/06.png" alt="icon" class="img-fluid">
-                            <h6>Trade</h6>
+                            <img src="images/icon/Trade.png" alt="icon" class="img-fluid">
+                            <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
-
                         </div>
                     </div>
                 </div>
@@ -580,14 +596,17 @@
                         <h3>Become a IB</h3>
 
                     </div>
-                    <p><b>Partner with a Reputable Company: </b> Collaborate with a reputable company offering real-time support and substantial earning potential,
-                     ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Bhutan.
+                    <p><b>Partner with a Reputable Company: </b> Collaborate with a reputable company offering real-time
+                        support and substantial earning potential,
+                        ensuring a mutually beneficial partnership in the dynamic brokerage landscape of Bhutan.
 
                     </p>
-                    <P><b>Join TradersEra as an IB:</b> Amplify your success in the brokerage world by joining TradersEra as an Introducing Broker, 
-                        leveraging our expertise and resources to enhance your earning opportunities and support network in Bhutan.
-</P><br/>
-                    
+                    <P><b>Join TradersEra as an IB:</b> Amplify your success in the brokerage world by joining
+                        TradersEra as an Introducing Broker,
+                        leveraging our expertise and resources to enhance your earning opportunities and support network
+                        in Bhutan.
+                    </P><br />
+
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
