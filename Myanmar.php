@@ -60,10 +60,8 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Multiple Trading Choices On
-
-
-                                <b class="iq-font-yellow">A Single Platform</b>
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Multiple Trading Choices on
+                             <br>   <b class="iq-font-yellow">A                Single Platform</b>
                             </h1>
                         </div>
                     </div>
@@ -74,8 +72,8 @@
 
                             </h2>
                             <br>
-                            <h5>Maximize Investments with Our All-in-One Online Platform for Binary Options, AI
-                                Assistance, and Forex Trading
+                            <h5>Maximize Investments with Our All-in-One Online Trading Platform for Binary Options, AI Assistance, and Forex Trading
+
                             </h5>
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
@@ -120,26 +118,24 @@
                     </ul> -->
                     <ul class="listing-mark iq-mtb-20">
                         <li>
-                            <h5><b>Trade Major Currency Pairs : </b> Engage in global markets with major currency pairs,
-                                including the Burmese kyat, for comprehensive trading opportunities.
+                            <h5><b>Trade Major Currency Pairs : </b>  Engage in global markets with major currency pairs, including the Burmese kyat.
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>High Liquidity : </b> Enjoy liquidity for swift trades, even with the Burmese kyat,
-                                ensuring efficient executions and seamless trading experiences.
+                            <h5><b>High Liquidity : </b> Enjoy liquidity for swift trades, even with the Burmese kyat, ensuring efficient and seamless trading experiences.
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>Access Diverse Assets: </b> Explore currencies, gold, oil, and indices relevant to
-                                Myanmar's economy, offering diverse trading opportunities tailored to local preferences.
+                            <h5><b>Access Diverse Assets: </b> Explore currencies, gold, oil, and indices relevant to Myanmar's economy customized as per local preferences.
+
 
                             </h5>
                         </li>
                         <li>
-                            <h5><b>Engage in the World's Largest Market: </b> Participate in the forex market with major
-                                currency pairs, tapping into vast opportunities alongside the Burmese kyat.
+                            <h5><b>Engage in the World's Largest Market: </b> Participate in the forex market with major currency pairs, tapping into vast opportunities.
+
 
 
                             </h5>
@@ -194,8 +190,8 @@
                         </div>
                         <br>
 
-                        <h5>Stay informed about market trends <br> with ChatGPT, customized for <br> Myanmar, providing
-                            timely insights and analysis to aid trading decisions.
+                        <h5>Stay informed about market trends <br>with ChatGPT, customized for Myanmar, providing 
+                            timely insights and <br>analysis to aid trading decisions.
 
                         </h5>
                         <br>
@@ -209,8 +205,9 @@
                         </div>
                         <br>
 
-                        <h5>Enhance trading decisions with AI-driven insights, customized for Myanmar, providing
-                            valuable guidance for informed choices.
+                        <h5>Enhance trading decisions with<br> AI-driven insights, customized for Myanmar, 
+                            providing valuable <br>guidance for informed choices.
+
 
                         </h5><br />
 
@@ -225,8 +222,9 @@
                         <br>
 
                         <h5>
-                            Get trading tactics and personalized assistance from ChatGPT, organized <br> for Burmese
-                            traders, offering customized guidance for improved trading experiences.
+                            Get trading tactics and personalized assistance from ChatGPT, organized <br>for Burmese traders, offering 
+                            customized guidance for improved trading experiences.
+
 
                         </h5>
 
@@ -262,10 +260,7 @@
                         </div>
 
                         <p>
-                        <h5>Easily forecast asset movements within set time frames, streamlining trading for the Burmese
-                            community and ensuring a hassle-free experience.
-
-
+                        <h5> Easily forecast asset movements within set <br>time frames, streamlining trading for the Burmese community.
                         </h5>
                         </p>
 
@@ -279,8 +274,9 @@
                         </div>
 
                         <p>
-                        <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes and
+                        <h5>Know potential profits and losses upfront, ensuring transparent trading outcomes and 
                             offering clarity for informed decision-making.
+
 
 
                         </h5>
@@ -308,10 +304,8 @@
                         </div>
 
                         <p>
-                        <h5> Trade cryptocurrencies, commodities, stocks, and forex, catering to diverse trading
-                            preferences in Myanmar, providing ample opportunities for portfolio diversification.
-
-
+                        <h5>Trade cryptocurrencies, commodities, stocks,<br> and forex, catering to diverse 
+                            trading preferences in Myanmar. 
                         </h5>
 
                         </p>
@@ -323,15 +317,11 @@
                         <div class="heading">
                             <h4 style="color:black"><b>Hassle-free Trading</b></h4>
                         </div>
-
                         <p>
-                        <h5> Enjoy seamless, user-friendly trading experiences,<br> ensuring convenience and efficiency
-                            in Myanmar's trading landscape.
-
+                        <h5> Enjoy seamless, user-friendly trading experiences, <br>ensuring convenience and 
+                            efficiency in Myanmar's trading landscape.
                         </h5>
-
                         </p>
-
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
@@ -385,14 +375,11 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Diverse Trading Options: </b> TradersEra offers diverse
-                                                        trading options, including cryptocurrency, FX, and traditional
-                                                        assets, enabling clients in Myanmar to diversify portfolios and
-                                                        capitalize on market trends across various asset classes.
-
-
+                                                    <p><b>Diverse Trading Options: </b> TradersEra offers diverse trading options, including cryptocurrency, 
+                                                        FX, and traditional assets, enabling clients in Myanmar to diversify portfolios and capitalize on 
+                                                        market trends.
                                                     </p>
-                                                    <br>
+                                                    <br><br>
                                                 </div>
                                             </div>
                                         </div>
@@ -415,12 +402,9 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Intuitive Design : </b>TradersEra prioritizes user experience
-                                                        with its intuitive interface, designed for easy navigation and
-                                                        fast transactions, catering to both experienced traders and
+                                                    <p><b>Intuitive Design : </b>TradersEra prioritizes user experience with its intuitive interface, 
+                                                        designed for easy navigation and fast transactions, catering to both experienced traders and 
                                                         beginners in Myanmar.
-
-
 
                                                     </p>
                                                     <br><br />
@@ -443,13 +427,10 @@
                                                         <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
                                                     </a> </div>
                                                 <div class="blog-content">
-                                                    <p><b>Top-Notch Security : </b>TradersEra ensures top-notch security
-                                                        for online businesses in Myanmar with advanced protocols like
-                                                        encryption, multi-factor authentication, and more, safeguarding
-                                                        data and assets against cyber threats and vulnerabilities.
-
-
-                                                    </p>
+                                                    <p><b>Top-Notch Security : </b>TradersEra ensures advanced protocols like encryption, 
+                                                        multi-factor authentication, safeguarding data and assets against cyber threats 
+                                                        and vulnerabilities.
+                                                    </p><br><br>
                                                 </div>
 
                                             </div>
