@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:56:48 GMT -->
+
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -27,7 +28,7 @@
 
     <style>
         @media (max-width:430px) {
-            .title{
+            .title {
                 margin-top: 22px;
             }
         }
@@ -36,6 +37,7 @@
 <!-- 
 h
  -->
+
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">
@@ -723,4 +725,5 @@ h
     <script src="js/countdown.js"></script>
 </body>
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:57:20 GMT -->
+
 </html>

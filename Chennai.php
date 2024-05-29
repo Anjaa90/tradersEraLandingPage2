@@ -23,6 +23,16 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
+    
+    <style>
+        @media (max-width:430px) {
+            .title {
+                margin-top: 22px;
+            }
+        }
+    </style>
+
+
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
