@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
-
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:56:48 GMT -->
-
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -13,7 +11,6 @@
         content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
     <meta name="keywords"
         content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
-
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->
@@ -27,7 +24,6 @@
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
 </head>
-
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">
@@ -62,11 +58,8 @@
                             <br>
                             <h1 class="text-white iq-tw-7 iq-mb-17">Dive Into Binary Options, AI, And Forex With
                                 TradersEra
-
-
                                 <b class="iq-font-yellow">In Cochin</b>
                             </h1><br>
-
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
@@ -76,15 +69,9 @@
                                 Assistance, and Forex Trading
                             </h2>
                             <br><br>
-
                             <p>Welcome to Cochin, where trading meets innovation! Unlock various trading options with
                                 TradersEra's all-in-one online platform. Whether you're a beginner or an experienced
                                 trader, start exploring binary options, AI assistance, and Forex trading today.
-
-
-
-
-
                             </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
@@ -99,7 +86,6 @@
                                             style="fill:#1c1b1e" />
                                     </g>
                                 </svg>Yes I Want To Open An Account</a>
-
                         </div>
                     </div>
                 </div>
@@ -107,17 +93,8 @@
         </div>
     </div>
     <!-- banner -->
-
-
     <!-- Our Mission -->
-
     <!-- Our Mission END -->
-
-
-
-
-
-
     <!-- What is OVEX -->
     <section class="overview-block-ptb trending-2">
         <div class="container">
@@ -130,7 +107,6 @@
                         <!-- <small class="iq-font-green">What is crypto</small> -->
                         <h2>Forex Trading Features</h2>
                     </div>
-
                     <br>
                     <!-- <ul>
                         <h4>Trade major currency pairs in the largest global market.</h4>
@@ -158,12 +134,8 @@
                         <li>
                             <h5>Benefit from high liquidity and diverse asset trading</h5>
                         </li>
-
-
                     </ul>
-
                 </div>
-
                 <div class="d-flex justify-content-center">
                     <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"><svg
                             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -176,18 +148,11 @@
                                     style="fill:#1c1b1e" />
                             </g>
                         </svg>SIGN UP FOR EXCLUSIVE ONLY MEMBER BENEFITS</a>
-
                 </div>
             </div>
         </div>
-
     </section>
     <!-- What is OVEX END -->
-
-
-
-
-
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
             <div class="row">
@@ -203,14 +168,10 @@
                     <div class="fancy-box">
                         <div class="heading ">
                             <h4 style="color:black"><b>Live Updates</B></h4>
-
                         </div>
                         <br>
-
                         <h5> Get real-time Indian and International market insights and analysis <br>with ChatGPT.
                         </h5><br />
-
-
                     </div>
                 </div>
                 <div class="col-lg-4 r9-mt-40">
@@ -219,7 +180,6 @@
                             <h4 style="color:black"><b>Smarter Choices</b></h4>
                         </div>
                         <br>
-
                         <h5> Make better trading decisions with<br> AI-driven support.</h5><br /><br>
                     </div>
                 </div>
@@ -229,15 +189,12 @@
                             <h4 style="color:black"><b>Chat Support</B></h4>
                         </div>
                         <br>
-
                         <h5>Interact with ChatGPT for trading <br>tactics and news.
                         </h5><br /><br />
-
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
-
                     </div>
                 </div>
             </div>
@@ -261,12 +218,10 @@
                             <h4 style="color:black"><B>Simplify Binary Options</B></h4>
 
                         </div>
-
                         <p>
                         <h5> Predict asset movements within set time frames.
                         </h5>
                         </p>
-
                     </div>
                 </div>
                 <div class="col-lg-6 r9-mt-40">
@@ -274,40 +229,27 @@
                         <div class="heading">
                             <h4 style="color:black"><B>Fixed Returns</B></h4>
                         </div>
-
-
                         <h5> Know potential profits and losses upfront.
                         </h5>
-
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
     <!-- timeline -->
-
     <br><br>
-
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
-
             <div class="row">
-
                 <div class="col-lg-6 r9-mt-40">
                     <div class="fancy-box">
                         <div class="heading">
                             <h4 style="color:black"><B>Explore Diverse Assets</B></h4>
                         </div>
-
                         <p>
                         <h5> Cryptos, commodities, stocks, forex.
-
-
                         </h5>
-
                         </p>
-
                     </div>
                 </div>
                 <div class="col-lg-6 r9-mt-40">
@@ -315,14 +257,10 @@
                         <div class="heading">
                             <h4 style="color:black"><B>Hassle-Free Trading</B></h4>
                         </div>
-
                         <p>
                         <h5> Enjoy ease with binary options.
-
                         </h5>
-
                         </p>
-
                     </div>
                 </div>
                 <div class="col-sm-12 iq-mt-30">
@@ -343,8 +281,6 @@
             </div>
         </div>
     </section>
-
-
     <!-- dk -->
     <!-- Tranding platform -->
     <section id="benefit" class="iq-Tranding-platform light-bg ">
@@ -406,7 +342,6 @@
                                                         for seamless navigation and fast transactions. </p>
                                                     <br>
                                                 </div>
-
                                             </div>
                                         </div>
                                     </div>
@@ -429,15 +364,12 @@
                                                         and more for data and asset protection.
                                                     </p>
                                                 </div>
-
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
-
                     </div>
                 </div>
                 <div class="col-md-12 d-flex justify-content-center">
@@ -454,13 +386,9 @@
                         </svg>Want To Open An Account
                     </a>
                 </div>
-
-
             </div>
-
         </div>
     </section>
-
     <section id="account" class="iq-tranding-Platform overview-block-pb trending-2 iq-ptb-100">
         <div class="container">
             <div class="row">
@@ -481,7 +409,6 @@
                         <li><b>Low spreads :</b> spreads as low as 0.4 pips consistently.</li>
                         <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or
                             spread-only accounts.</li>
-
                         <li>Low starting amount: Begin trading with just $10 for accessibility.</li>
                         <li><b>High leverage:</b> Maximize potential with up to 1:1000 leverage.</li>
                         <li>Fast order execution: Execute trades within milliseconds to minimize slippage.</li>
@@ -498,14 +425,12 @@
         </div>
     </section>
     <!--End timeline -->
-
     <!-- About Us -->
     <section id="product" class="overview-block-pb iq-ptb-100">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
                     <div class="heading-title">
-
                         <h2 class="title">Open an account in 4 simple steps</h2>
                     </div>
                 </div>
@@ -518,7 +443,6 @@
                             <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
-
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
@@ -547,7 +471,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
             <div class="col-sm-12 d-flex justify-content-center">
                 <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
@@ -564,10 +487,8 @@
                 </a>
             </div>
         </div>
-
     </section>
     <!-- About Us -->
-
     <!-- Our Mission -->
     <section id="partner" class="overview-block-ptb iq-ptb-100">
         <div class="container">
@@ -579,7 +500,6 @@
                     <div class="heading-title left">
                         <!-- <small class="iq-font-green">Become a Partner</small> -->
                         <h3>Become a Partner</h3>
-
                     </div>
                     <p><b>For Your Clients : </b>Access award-winning MetaTrader 5 for diverse, liquid markets.</p>
                     <p><b>For Introducing Brokers: </b>Partner with a reputable company for real-time support and
@@ -604,8 +524,6 @@
         </div>
     </section>
     <!-- Our Mission END -->
-
-
     <div id="home" class="iq-banner-2">
         <div id="particles-js" class="body-bg"></div>
         <div class="banner-info">
@@ -616,35 +534,18 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-
-
-
                             <p>Thank you Cochin. With TradersEra, trading is accessible and secure. Start your journey
                                 with us today and elevate your success in the brokerage world. Let's navigate the
                                 markets together
                             </p>
-
-
-
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
-
-
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-
-
-
-
-
-
-
-
     <!-- FAQ -->
     <section id="faq" class="iq-anything overview-block-pb">
         <div class="container">
@@ -733,8 +634,6 @@
         </div>
     </section>
     <!-- FAQ END -->
-
-
     <!-- PARTNERS END -->
     </div>
     <div class="modal fade iq-login" tabindex="-1" role="dialog" aria-hidden="true">
@@ -819,8 +718,5 @@
     <!-- countdown javascript -->
     <script src="js/countdown.js"></script>
 </body>
-
-
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:57:20 GMT -->
-
 </html>
