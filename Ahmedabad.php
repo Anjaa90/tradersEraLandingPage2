@@ -110,7 +110,7 @@ h
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 align-self-center">
-                    <img style="height:300px; width:500px;" src="images/landing 1.png" class="img-fluid" alt="">
+                    <img style="height:300px; width:500px;" src="images/landing 1.png" class="img-fluid" alt="Features of forex trading">
                 </div>
                 <div class="col-lg-8 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
@@ -315,7 +315,7 @@ h
                                             <div class="iq-blog-image clearfix">
                                                 <img class="img-fluid center-block"
                                                     src="images/tradersera landing page trading options png-compressed.jpg"
-                                                    alt="#">
+                                                    alt="Various Trading options">
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
@@ -336,7 +336,7 @@ h
                                             <div class="iq-blog-image clearfix">
                                                 <img class="img-fluid center-block"
                                                     src="images/tradersera landing page user friendly interface png-compressed.jpg"
-                                                    alt="#">
+                                                    alt="Easy to use forex trading platform">
                                                 <div class="players" id="player2-container">
                                                     <div class="media-wrapper">
                                                     </div>
@@ -361,7 +361,7 @@ h
                                             <div class="iq-blog-image clearfix">
                                                 <img class="img-fluid center-block"
                                                     src="images/tradersera landing page advanced security measures png-compressed (2).jpg"
-                                                    alt="#">
+                                                    alt="Safe and secure trading ">
                                             </div>
                                             <div class="iq-blog-detail">
                                                 <div class="blog-title"> <a href="#">
@@ -411,7 +411,7 @@ h
             <div class="row">
                 <div class="col-lg-6">
                     <img class="img-fluid"
-                        src="images/traderaera landingpage Our Trading Accounts for Your Perfect Fit.png" alt="#">
+                        src="images/traderaera landingpage Our Trading Accounts for Your Perfect Fit.png" alt="Features of TradersEra Trading account ">
                 </div>
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <ul class="listing-mark iq-mtb-20">
@@ -502,7 +502,7 @@ h
         <div class="container">
             <div class="row flex-row-reverse ">
                 <div class="col-lg-6 align-self-center">
-                    <img src="images/landing 2.png" class="img-fluid" alt="">
+                    <img src="images/landing 2.png" class="img-fluid" alt="Become a Partner with TradersEra">
                 </div>
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <div class="heading-title left">
