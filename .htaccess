@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} www.tradersera.com
+RewriteRule (.*) https://tradersera.com/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} index\.html
+RewriteRule .* https://tradersera.com/ [R=301,L]
