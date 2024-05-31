@@ -290,112 +290,80 @@
     </section>
     <!-- dk -->
     <!-- Tranding platform -->
-    <section id="benefit" class="iq-Tranding-platform light-bg ">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="heading-title">
-                        <!-- <small class="iq-font-green">Benefits</small> -->
-                        <h2 class="title">Trading Benefits with TradersEra
-                        </h2>
+    <section id="benefit" class="iq-Tranding-platform light-bg">
+    <div class="container">
+        <div class="row">
+            <div class="heading-title col-sm-12">
+                <h2 class="title">Trading Benefits with TradersEra</h2>
+            </div>
+            <div class="item col-lg-4 col-md-4 col-sm-12">
+                <div class="iq-blog-box">
+                    <div class="iq-blog-image clearfix">
+                        <img class="img-fluid center-block"
+                            src="images/tradersera landing page trading options png-compressed.jpg"
+                            alt="#">
                     </div>
-                </div>
-                <div class="col-sm-12">
-                    <div data-autoplay="true" data-loop="true" data-nav="true" data-dots="false" data-items="3"
-                        data-items-laptop="3" data-items-tab="3" data-items-mobile="1" data-items-mobile-sm="1"
-                        data-margin="30">
-                        <div class="owl-stage-outer">
-                            <div class="owl-stage" style="display: flex;">
-                                <div class="owl-item cloned" style="width: 362px; margin-right: 30px;">
-                                    <div class="item">
-                                        <div class="iq-blog-box">
-                                            <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block"
-                                                    src="images/tradersera landing page trading options png-compressed.jpg"
-                                                    alt="#">
-                                            </div>
-                                            <div class="iq-blog-detail">
-                                                <div class="blog-title"> <a href="#">
-                                                        <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
-                                                    </a> </div>
-                                                <div class="blog-content">
-                                                    <p>TradersEra offers diverse trading options, including
-                                                        cryptocurrency, FX, and traditional assets.</p>
-                                                    <br><br><br>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 362px; margin-right: 30px;">
-                                    <div class="item">
-                                        <div class="iq-blog-box">
-                                            <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block"
-                                                    src="images/tradersera landing page user friendly interface png-compressed.jpg"
-                                                    alt="#">
-                                                <div class="players" id="player2-container">
-                                                    <div class="media-wrapper">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="iq-blog-detail">
-                                                <div class="blog-title"> <a href="#">
-                                                        <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
-                                                    </a> </div>
-                                                <div class="blog-content">
-                                                    <p>TradersEra focuses on user experience with its easy-to-use
-                                                        interface, catering to both experienced traders and beginners
-                                                        for seamless navigation and fast transactions. </p>
-                                                    <br>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 362px; margin-right: 30px;">
-                                    <div class="item">
-                                        <div class="iq-blog-box">
-                                            <div class="iq-blog-image clearfix">
-                                                <img class="img-fluid center-block"
-                                                    src="images/tradersera landing page advanced security measures png-compressed (2).jpg"
-                                                    alt="#">
-                                            </div>
-                                            <div class="iq-blog-detail">
-                                                <div class="blog-title"> <a href="#">
-                                                        <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
-                                                    </a> </div>
-                                                <div class="blog-content">
-                                                    <p>TradersEra provides top-notch security for online businesses with
-                                                        advanced protocols like encryption, multi-factor authentication,
-                                                        and more for data and asset protection.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="iq-blog-detail">
+                        <div class="blog-title"> <a href="#">
+                                <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
+                            </a> </div>
+                        <div class="blog-content">
+                            <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12 d-flex justify-content-center">
-                    <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                            <g data-name="Circle Right">
-                                <path
-                                    d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                                    style="fill:#1c1b1e" />
-                                <path
-                                    d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                                    style="fill:#1c1b1e" />
-                            </g>
-                        </svg>Want To Open An Account
-                    </a>
+            </div>
+            <div class="item col-lg-4 col-md-4 col-sm-12">
+                <div class="iq-blog-box">
+                    <div class="iq-blog-image clearfix">
+                        <img class="img-fluid center-block"
+                            src="images/tradersera landing page user friendly interface png-compressed.jpg"
+                            alt="#">
+                    </div>
+                    <div class="iq-blog-detail">
+                        <div class="blog-title"> <a href="#">
+                                <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
+                            </a> </div>
+                        <div class="blog-content">
+                            <p>TradersEra focuses on user experience with its easy-to-use interface, catering to both experienced traders and beginners for seamless navigation and fast transactions. </p>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <div class="item col-lg-4 col-md-4 col-sm-12">
+                <div class="iq-blog-box">
+                    <div class="iq-blog-image clearfix">
+                        <img class="img-fluid center-block"
+                            src="images/tradersera landing page advanced security measures png-compressed (2).jpg"
+                            alt="#">
+                    </div>
+                    <div class="iq-blog-detail">
+                        <div class="blog-title"> <a href="#">
+                                <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
+                            </a> </div>
+                        <div class="blog-content">
+                            <p>TradersEra provides top-notch security for online businesses with advanced protocols like encryption, multi-factor authentication, and more for data and asset protection.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 d-flex justify-content-center">
+                <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <g data-name="Circle Right">
+                            <path
+                                d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                                style="fill:#1c1b1e" />
+                            <path
+                                d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                                style="fill:#1c1b1e" />
+                        </g>
+                    </svg>Want To Open An Account
+                </a>
+            </div>
         </div>
-    </section>
+    </div>
+</section>
     <section id="account" class="iq-tranding-Platform overview-block-pb trending-2 iq-ptb-100">
         <div class="container">
             <div class="row">
