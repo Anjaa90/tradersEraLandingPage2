@@ -313,7 +313,7 @@
                             </a> </div>
                         <div class="blog-content">
                             <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets.</p>
-                        </div>
+                        </div><br><br>
                     </div>
                 </div>
             </div>
